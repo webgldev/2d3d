@@ -1,11 +1,14 @@
 #### 🔥 2D 3D Dev Group에 공유한 자료 모음집 입니다.
 
-같이 공부하시는 분들께서 댓글이나 포스팅으로 공유해주신 자료 입니다.
+이 리포는 복습과 자료찾기용 입니다.  
+같이 공부하시는 분들께서 댓글이나 포스팅으로 공유해주신 자료와 제가 공유한 자료 입니다.  
+리포에는 URL만 모아두었기 때문에, URL만봐서는 이 자료를 공유한 이유와 설명이 부족할 수 있습니다.  
+자료는 매월 말에 업데이트 됩니다. 감사합니다.
 
 <hr />
 
 <details>
-<summary>2021년 12월에 공유한 자료 입니다.</summary>
+<summary>2021년 12월</summary>
 
 https://codesandbox.io/s/bdctv 
 
@@ -257,8 +260,11 @@ https://drei.pmnd.rs/?path=%2Fstory%2Fperformance-adaptive--adaptive-scene-st
 
 </details>
 
+<hr />
 
-
+<details>
+<summary>2022년 1월</summary>
+</details>
 
 
 
