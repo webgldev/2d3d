@@ -1,625 +1,304 @@
-#### 🔥 2D 3D Dev Group에 공유한 자료 모음집 입니다.
-
-이 리포는 복습과 자료찾기용 입니다.  
-같이 공부하시는 분들께서 댓글이나 포스팅으로 공유해주신 자료와 제가 공유한 자료 입니다.  
-리포에는 URL만 모아두었기 때문에, URL만봐서는 이 자료를 공유한 이유와 설명이 부족할 수 있습니다.  
-자료는 매월 말에 업데이트 됩니다. 감사합니다.
-
-***
+### 🌿 This repository is made for '2d 3d dev group'
 
 <details>
-<summary>2021년 12월</summary>
+<summary>🎁 <b>URL</b></summary>
+
+|No.|URL                                                                                                                                                                                               |TAG                                                    |Note                             |
+|---|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|---------------------------------|
+|1  |https://codesandbox.io/s/bdctv                                                                                                                                                                    |Threejs,r3f,Reactjs,WebGL                              |                                 |
+|2  |https://spite.github.io/codevember-2021/                                                                                                                                                          |Threejs,Example sites,Creative coding,WebGL            |                                 |
+|3  |https://virtualexpodubai.com                                                                                                                                                                      |Map,Shader,Example sites,WebGL                         |                                 |
+|4  |https://www.instagram.com/p/CUh2UamgPBz                                                                                                                                                           |                                                       |                                 |
+|5  |https://www.instagram.com/bentonjohn/p/CVDy2hLKRok                                                                                                                                                |                                                       |                                 |
+|6  |https://github.com/chokcoco/iCSS                                                                                                                                                                  |CSS                                                    |                                 |
+|7  |https://cineshader.com/                                                                                                                                                                           |GLSL,Shader,WebGL                                      |                                 |
+|8  |https://matrix.spline.design/?s=09                                                                                                                                                                |Threejs,Creative coding,WebGL,Tool                     |                                 |
+|9  |https://kr.ncsoft.com/kr/index.do                                                                                                                                                                 |Example sites,WebGL                                    |                                 |
+|10 |https://dev.to/maniflames/pointcloud-effect-in-three-js-3eic                                                                                                                                      |GLSL,GLTF,Threejs,Lecture & Article,WebGL              |                                 |
+|11 |https://lab.julienverneaut.com/matcap-editor/?s=09                                                                                                                                                |Shader,Threejs,r3f,Reactjs,Tool                        |                                 |
+|12 |https://github.com/jverneaut/laboratoire                                                                                                                                                          |Lecture & Article,Example sites,WebGL                  |                                 |
+|13 |https://exhibition39.snuaaa.net                                                                                                                                                                   |Example sites,WebGL                                    |                                 |
+|14 |https://bugzilla.mozilla.org/show_bug.cgi?id=1702924&s=09                                                                                                                                         |CSS                                                    |                                 |
+|15 |https://ishadeed.com/article/defensive-css/?s=09                                                                                                                                                  |CSS,Lecture & Article                                  |                                 |
+|16 |https://codesandbox.io/u/drcmda                                                                                                                                                                   |GLTF,Threejs,r3f,Reactjs,Example sites,WebGL           |                                 |
+|18 |https://github.com/tldraw/tldraw                                                                                                                                                                  |Library,Reactjs                                        |                                 |
+|19 |https://twitter.com/seflless/status/1463710140687949826                                                                                                                                           |Tool                                                   |                                 |
+|20 |https://youtu.be/A4wchK34tnU                                                                                                                                                                      |Tool                                                   |                                 |
+|21 |https://youtu.be/0Bm8CjpdsAY                                                                                                                                                                      |GLSL,Shader,WebGL,OpenGL,Tool                          |                                 |
+|22 |https://github.com/jagracar/webgl-shader-examples                                                                                                                                                 |GLTF,Shader,Threejs,Example sites,WebGL                |                                 |
+|23 |https://webgl-shaders.com/                                                                                                                                                                        |GLTF,Shader,Threejs,Example sites,WebGL                |                                 |
+|24 |https://codepen.io/motionharvest/pen/WNQYJyM                                                                                                                                                      |Shader,Threejs,Example sites,Creative coding,WebGL,GSAP|                                 |
+|25 |https://www.bluemarinefoundation.com/the-sea-we-breathe/?s=09                                                                                                                                     |Example sites,WebGL                                    |                                 |
+|26 |https://css-tricks.com/the-power-and-fun-of-scope-with.../                                                                                                                                        |CSS,Lecture & Article                                  |                                 |
+|27 |https://mockrocket.io/?s=09                                                                                                                                                                       |WebGL,Tool                                             |                                 |
+|28 |https://codesandbox.io/embed/magic-mirror-ddk57?codemirror=1                                                                                                                                      |GLTF,Threejs,r3f,WebGL                                 |                                 |
+|29 |https://codesandbox.io/s/mixing-html-and-webgl-w-occlusion-9keg6                                                                                                                                  |Threejs,r3f,Reactjs,WebGL                              |                                 |
+|30 |https://www.etsy.com/shop/vizcart                                                                                                                                                                 |Map                                                    |                                 |
+|31 |https://www.instagram.com/p/CJ_NUs_lGpJ                                                                                                                                                           |Map,Reactjs,Data Visualization,d3.js                   |                                 |
+|32 |https://github.com/NikLever/GLSLfromScratch                                                                                                                                                       |GLSL                                                   |                                 |
+|34 |https://github.com/hwan-ajou/webgl-1.0                                                                                                                                                            |Lecture & Article,WebGL                                |                                 |
+|35 |https://tympanus.net/codrops/                                                                                                                                                                     |Threejs,CSS,Lecture & Article,WebGL                    |                                 |
+|36 |https://github.com/codrops                                                                                                                                                                        |Threejs,CSS,WebGL                                      |                                 |
+|37 |https://creativeprojects.vercel.app/                                                                                                                                                              |Threejs,Lecture & Article,Creative coding,WebGL        |                                 |
+|38 |https://github.com/javusScriptus/creativeprojects                                                                                                                                                 |Threejs,Creative coding,WebGL                          |                                 |
+|39 |https://www.domestika.org/en/courses/2729-creative-coding-making-visuals-with-javascript                                                                                                          |Lecture & Article,Creative coding                      |                                 |
+|40 |https://pendereckisgarden.pl/en                                                                                                                                                                   |Example sites,WebGL                                    |                                 |
+|41 |https://www.awwwards.com/pendereckis-garden-by-huncwot.html                                                                                                                                       |Lecture & Article,WebGL                                |                                 |
+|42 |https://thearchives.manoloblahnik.com                                                                                                                                                             |Threejs,Example sites,WebGL                            |                                 |
+|43 |https://godly.website/websites/webgl                                                                                                                                                              |Example sites,WebGL                                    |                                 |
+|44 |https://godly.website/                                                                                                                                                                            |Example sites,WebGL                                    |                                 |
+|45 |https://threejs.org/                                                                                                                                                                              |Threejs                                                |                                 |
+|46 |https://greensock.com/showcase/                                                                                                                                                                   |GSAP                                                   |                                 |
+|47 |https://www.awwwards.com/                                                                                                                                                                         |Lecture & Article,Example sites,WebGL                  |                                 |
+|50 |https://www.framer.com/docs/layoutcamera/?s=09                                                                                                                                                    |Framer                                                 |                                 |
+|51 |https://codesandbox.io/s/framer-motion-3d-layoutorthographiccamera-txys2?from-embed                                                                                                               |Reactjs,Framer                                         |50번 예제                           |
+|52 |https://github.com/shuding/cobe                                                                                                                                                                   |Library,WebGL                                          |WebGL based globe library        |
+|53 |https://openprocessing.org/crayon/                                                                                                                                                                |Example sites,Creative coding                          |NFT Market                       |
+|54 |https://opensea.io/collection/crayon-codes-v1                                                                                                                                                     |Example sites,Creative coding                          |NFT Market                       |
+|55 |https://rarible.com/                                                                                                                                                                              |Example sites                                          |NFT Market                       |
+|56 |https://2021.stateofcss.com/en-us/                                                                                                                                                                |CSS,Lecture & Article                                  |                                 |
+|57 |https://github.com/Sean-Bradley/Three.js-TypeScript-Boilerplate                                                                                                                                   |Library,Threejs                                        |                                 |
+|59 |https://threejs-journey.com/?s=09                                                                                                                                                                 |Threejs,Lecture & Article                              |                                 |
+|60 |https://greensock.com/3-9                                                                                                                                                                         |Library,GSAP                                           |                                 |
+|61 |https://github.com/greensock/GSAP/releases/tag/3.9.0                                                                                                                                              |Library,GSAP                                           |                                 |
+|62 |https://github.com/chokcoco/iCSS/issues/109                                                                                                                                                       |CSS                                                    |                                 |
+|63 |                                                                                                                                                                                                  |                                                       |                                 |
+|64 |https://developer.mozilla.org/en-US/docs/Web/CSS/@property                                                                                                                                        |CSS                                                    |                                 |
+|65 |https://dmnsgn.github.io/codevember-2017/26.html                                                                                                                                                  |Threejs,Example sites                                  |                                 |
+|66 |http://felixpalmer.github.io/lod-terrain/                                                                                                                                                         |Map,Example sites,WebGL                                |                                 |
+|67 |https://avin.github.io/sketches/091_snow_forest.html                                                                                                                                              |Threejs,Example sites                                  |                                 |
+|68 |https://ironvelvet.studio/works                                                                                                                                                                   |Threejs,Vue                                            |                                 |
+|69 |https://codepen.io/zachernuk/full/oNGWZgG?s=09                                                                                                                                                    |Threejs,WebGL                                          |                                 |
+|70 |https://twitter.com/brdrck/status/1471926235274096648?s=20                                                                                                                                        |Figma                                                  |                                 |
+|71 |https://www.fileviewpro.com/ko/file-extension-glb/                                                                                                                                                |                                                       |                                 |
+|72 |https://bayazuma.github.io/grasswind/                                                                                                                                                             |Threejs,Example sites                                  |                                 |
+|73 |https://github.com/bayazuma/grasswind                                                                                                                                                             |Threejs                                                |                                 |
+|74 |https://primavistatexture.com/                                                                                                                                                                    |Threejs,Example sites,WebGL                            |                                 |
+|75 |https://www.patterns.dev/                                                                                                                                                                         |Lecture & Article                                      |                                 |
+|76 |https://github.com/lydiahallie/javascript-questions                                                                                                                                               |Lecture & Article                                      |                                 |
+|77 |https://codepen.io/pehaa/pen/KKXMKMN                                                                                                                                                              |Threejs                                                |                                 |
+|78 |https://github.com/kekkorider/threejs-audio-reactive-visual                                                                                                                                       |Threejs                                                |                                 |
+|79 |https://codepen.io/Nekto/pen/vYeJQMX                                                                                                                                                              |GSAP                                                   |                                 |
+|80 |https://gallery.mediciism.com                                                                                                                                                                     |Threejs,WebGL                                          |                                 |
+|82 |https://github.com/Resten1497/christmas_tree/tree/master/js                                                                                                                                       |Creative coding                                        |                                 |
+|83 |https://boytchev.github.io/etudes/webgl/freezing-cube.html                                                                                                                                        |Threejs,Example sites                                  |                                 |
+|84 |https://boytchev.github.io/etudes/                                                                                                                                                                |Lecture & Article                                      |                                 |
+|85 |https://github.com/boytchev/etudes                                                                                                                                                                |Threejs,WebGL                                          |                                 |
+|87 |https://github.com/oframe/ogl                                                                                                                                                                     |Library                                                |                                 |
+|88 |https://css-tricks.com/grainy-gradients/                                                                                                                                                          |CSS                                                    |                                 |
+|89 |https://youtu.be/qrGHs4d0yt0                                                                                                                                                                      |Lecture & Article                                      |                                 |
+|90 |https://codepen.io/DavidJAldred/pen/pVbQBJ                                                                                                                                                        |CSS                                                    |                                 |
+|91 |https://developer.mozilla.org/ko/docs/Web/CSS/background                                                                                                                                          |CSS,Lecture & Article                                  |                                 |
+|92 |https://yeun.github.io/open-color/ingredients.html                                                                                                                                                |Library,CSS                                            |                                 |
+|93 |https://colorhunt.co/                                                                                                                                                                             |CSS                                                    |                                 |
+|94 |https://paletton.com                                                                                                                                                                              |CSS                                                    |                                 |
+|95 |https://colors.muz.li/                                                                                                                                                                            |CSS                                                    |                                 |
+|96 |https://maketintsandshades.com                                                                                                                                                                    |CSS                                                    |                                 |
+|97 |https://omatsuri.app/color-shades-generator                                                                                                                                                       |CSS                                                    |                                 |
+|98 |https://www.bram.us/2021/12/27/css-in-2022                                                                                                                                                        |CSS,Lecture & Article                                  |                                 |
+|99 |https://developer.mozilla.org/en-US/docs/Web/SVG/Element/feTurbulence                                                                                                                             |CSS                                                    |                                 |
+|100|https://codesandbox.io/s/simple-christmas-tree-c6jjj?file=%2Findex.html                                                                                                                           |CSS                                                    |                                 |
+|101|https://youtu.be/x009wWOVB6M                                                                                                                                                                      |Example sites                                          |                                 |
+|102|https://refactoring.guru                                                                                                                                                                          |Lecture & Article                                      |                                 |
+|103|https://threejs.org/docs                                                                                                                                                                          |Threejs                                                |                                 |
+|104|https://threejs.org/examples/webgl_loader_3dm.html                                                                                                                                                |Threejs,Example sites                                  |                                 |
+|105|https://www.figma.com/community/file/834210307944210537                                                                                                                                           |Figma                                                  |                                 |
+|106|https://jsfiddle.net/Avantgarde95/2q1ofgpn                                                                                                                                                        |CSS                                                    |                                 |
+|107|https://github.com/lume/lume                                                                                                                                                                      |Library,WebGL                                          |                                 |
+|108|https://redcamel.github.io/RedGL2/example/index.html                                                                                                                                              |Library,WebGL                                          |                                 |
+|109|https://github.com/redcamel/RedGL2                                                                                                                                                                |Library,WebGL                                          |                                 |
+|110|https://present.do/presentations/61346fa35b179c0da746536a                                                                                                                                         |Lecture & Article,metal                                |                                 |
+|111|https://www.youtube.com/watch?v=mB9d5RDNryw                                                                                                                                                       |Lecture & Article,metal                                |                                 |
+|112|https://simulacroix.github.io/dithering                                                                                                                                                           |Library,Example sites                                  |                                 |
+|113|https://www.npmjs.com/package/korat                                                                                                                                                               |Library                                                |                                 |
+|114|https://github.com/arwes/arwes                                                                                                                                                                    |Library                                                |                                 |
+|115|https://brunch.co.kr/@99-life/2                                                                                                                                                                   |CSS                                                    |                                 |
+|116|https://www.notion.so/CSS-ce833773a8174100993856d9ca5cd58f                                                                                                                                        |CSS                                                    |                                 |
+|117|https://www.npmjs.com/package/3d-force-graph                                                                                                                                                      |Library,WebGL                                          |                                 |
+|118|https://github.com/hiloteam/Hilo3d                                                                                                                                                                |GLTF,Library,WebGL,Tool                                |                                 |
+|119|https://codesandbox.io/s/mixing-html-and-webgl-w-occlusion-9keg6                                                                                                                                  |Library,Threejs,r3f,Reactjs,Example sites              |                                 |
+|120|https://codesandbox.io/s/magic-mirror-ddk57                                                                                                                                                       |Library,Threejs,r3f,Reactjs,Example sites              |                                 |
+|121|https://youtu.be/XGfMB76U5ts                                                                                                                                                                      |                                                       |Optical Illusion - 2d is magic 3d|
+|122|https://www.shadertoy.com/view/Xty3zd                                                                                                                                                             |Shader                                                 |                                 |
+|123|https://docs.pmnd.rs/react-three-fiber/getting-started/examples                                                                                                                                   |r3f,Reactjs,Example sites                              |                                 |
+|124|https://drei.pmnd.rs/?path=%2Fstory%2Fperformance-adaptive--adaptive-scene-st                                                                                                                     |GLTF,Library,Threejs,r3f,Reactjs,Example sites         |                                 |
+|125|https://codesandbox.io/embed/motion-one-morph-svg-paths-qldsz?file=%2Fsrc%2Findex.js&codemirror=1                                                                                                 |Library,Example sites                                  |                                 |
+|126|https://observablehq.com/@acidsound/monofireworks                                                                                                                                                 |Shader,Example sites,WebGL                             |                                 |
+|127|https://observablehq.com/@vezwork/webgl2-shader                                                                                                                                                   |Shader,WebGL                                           |                                 |
+|128|https://nivo.rocks/network/canvas/                                                                                                                                                                |Library,Data Visualization                             |                                 |
+|129|https://bl.ocks.org/mbostock/950642                                                                                                                                                               |Library,Example sites,Data Visualization,d3.js         |                                 |
+|130|                                                                                                                                                                                                  |                                                       |                                 |
+|131|https://nivo.rocks/storybook/?path=/docs/networkcanvas--custom-node-renderer                                                                                                                      |Library,Data Visualization                             |nivo                             |
+|132|https://www.loewe.com/int/en/stories-projects/loewe-spirited-away-harajuku-popup.html                                                                                                             |Creative coding                                        |                                 |
+|133|https://www.smashingmagazine.com/2022/01/css-radial-conic-gradient/                                                                                                                               |CSS,Lecture & Article                                  |                                 |
+|134|https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random                                                                                                      |Lecture & Article                                      |                                 |
+|135|https://www.desmos.com/calculator?lang=ko                                                                                                                                                         |Tool                                                   |                                 |
+|136|https://github.com/Asabeneh/30-Days-Of-JavaScript                                                                                                                                                 |Lecture & Article                                      |                                 |
+|137|https://github.com/yjs03057/33-js-concepts                                                                                                                                                        |Lecture & Article                                      |                                 |
+|138|https://github.com/trekhleb/javascript-algorithms                                                                                                                                                 |Lecture & Article                                      |                                 |
+|139|https://github.com/mgechev/javascript-algorithms                                                                                                                                                  |Lecture & Article                                      |                                 |
+|140|https://github.com/humanwhocodes/computer-science-in-javascript                                                                                                                                   |Lecture & Article                                      |                                 |
+|141|https://github.com/kim-taewoo/threejs_journey/blob/master/09-geometries-final/src/script.js                                                                                                       |Threejs                                                |                                 |
+|142|https://brunosimon.notion.site/brunosimon/Resources-Learning-45cacca08e884d0f9c4cf59d0d9b8d72                                                                                                     |Lecture & Article,Creative coding                      |                                 |
+|143|https://www.youtube.com/watch?v=FJ44qmE5odc                                                                                                                                                       |Lecture & Article,SVG                                  |                                 |
+|144|https://2020.feconf.kr/                                                                                                                                                                           |Reactjs,Creative coding                                |                                 |
+|145|https://www.instagram.com/rrnwnsgl/?hl=ko                                                                                                                                                         |Lecture & Article                                      |                                 |
+|146|https://uxplus.dev/noisy-grid/                                                                                                                                                                    |Reactjs,WebGL                                          |                                 |
+|148|https://github.com/kim-taewoo/threejs_journey/blob/master/06-animations/src/script.js                                                                                                             |Threejs,Lecture & Article                              |                                 |
+|149|https://www.youtube.com/watch?v=-ybVWOHVDyA                                                                                                                                                       |Lecture & Article                                      |                                 |
+|150|https://velog.io/@teo/css-history-1                                                                                                                                                               |CSS,Lecture & Article                                  |                                 |
+|151|https://github.com/ManzDev/frontend-evolution                                                                                                                                                     |Lecture & Article                                      |                                 |
+|152|https://www.easylogic.studio                                                                                                                                                                      |Library,Tool                                           |                                 |
+|153|https://github.com/kim-taewoo/threejs_journey                                                                                                                                                     |Threejs,Lecture & Article                              |                                 |
+|154|https://m.blog.naver.com/ycpiglet/222616179132                                                                                                                                                    |Lecture & Article                                      |                                 |
+|156|https://3dtextures.me/2019/04/16/door-wood-001/                                                                                                                                                   |Resource                                               |                                 |
+|157|https://threejs.org/docs/#api/en/constants/Textures                                                                                                                                               |Library,Threejs                                        |                                 |
+|158|https://en.wikipedia.org/wiki/Moir%C3%A9_pattern                                                                                                                                                  |Lecture & Article                                      |                                 |
+|159|https://threejs.org/docs/?q=mate#api/en/constants/Materials                                                                                                                                       |Threejs                                                |                                 |
+|160|https://github.com/nidorx/matcaps                                                                                                                                                                 |Library                                                |                                 |
+|161|https://www.ilithya.rocks/                                                                                                                                                                        |WebGL                                                  |                                 |
+|162|https://github.com/PacktPublishing/CSS---The-Complete-Guide-incl.-Flexbox-Grid-and-Sass-                                                                                                          |CSS,SCSS,Lecture & Article                             |                                 |
+|163|https://www.zoomkoding.com/3d-book/                                                                                                                                                               |Threejs,Lecture & Article                              |                                 |
+|164|https://github.com/zoomkoding/3d-book                                                                                                                                                             |Threejs,Lecture & Article                              |                                 |
+|165|https://zoomkoding.github.io/3d-book/                                                                                                                                                             |Threejs,Lecture & Article                              |                                 |
+|166|https://lab.mango.astanusic.dev/                                                                                                                                                                  |                                                       |                                 |
+|167|https://nvlabs.github.io/instant-ngp/                                                                                                                                                             |                                                       |                                 |
+|168|https://github.com/aleksei-berezkin/guess-css                                                                                                                                                     |CSS,Lecture & Article                                  |                                 |
+|169|https://www.guess-css.app/                                                                                                                                                                        |CSS,Lecture & Article                                  |                                 |
+|170|https://velog.io/@soonmac/%ED%86%A0%EC%9D%B4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%82%98%EB%A7%8C%EC%9D%98-%EB%B0%B1%EC%8B%A0-%EC%9D%B8%EC%A6%9D-%EC%B9%B4%EB%93%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0|Lecture & Article,WebGL                                |                                 |
+|171|https://tympanus.net/codrops/2022/01/12/pixel-distortion-effect-with-three-js                                                                                                                     |Threejs,Lecture & Article                              |                                 |
+|172|https://github.com/caa1211/webOAcard                                                                                                                                                              |Threejs,WebGL                                          |                                 |
+|173|https://blog.dalgu.app/dev/1                                                                                                                                                                      |Reactjs,WebGL                                          |                                 |
+|174|https://codesandbox.io/embed/reflector-variant-forked-lx2h8                                                                                                                                       |Threejs,r3f,Example sites                              |                                 |
+|175|https://www.smashingmagazine.com/2021/01/front-end-performance-2021-free-pdf-checklist                                                                                                            |Lecture & Article                                      |                                 |
+|176|https://codepen.io/Mamboleoo/pen/qBPyqKg                                                                                                                                                          |Threejs,Example sites                                  |                                 |
+|177|https://github.com/maxwellito/minimator                                                                                                                                                           |Tool                                                   |                                 |
+|178|https://codepen.io/cobra_winfrey/full/GRMdwwG                                                                                                                                                     |SCSS                                                   |                                 |
+|179|https://github.com/seek-oss/vanilla-extract                                                                                                                                                       |CSS                                                    |                                 |
+|180|https://uxplus.dev/tickler/                                                                                                                                                                       |Creative coding,p5.js                                  |                                 |
+|181|https://github.com/markshenouda/Solar-System                                                                                                                                                      |r3f                                                    |                                 |
+|182|https://solar-system-r3f.netlify.app/                                                                                                                                                             |r3f,Example site                                       |                                 |
+|183|https://youtu.be/0jHsq36_NTU                                                                                                                                                                      |Example site                                           |                                 |
+|184|https://codesandbox.io/embed/use-p2-marble-run-9feis                                                                                                                                              |r3f,Physics                                            |                                 |
+|185|https://github.com/schteppe/p2.js                                                                                                                                                                 |Library,Physics                                        |                                 |
+|186|https://readyplayer.me/                                                                                                                                                                           |Example site                                           |                                 |
+|187|https://www.mixamo.com/                                                                                                                                                                           |Tool                                                   |3D&AR tools from Adobe           |
+|188|https://pangol.github.io/donate99/                                                                                                                                                                |Threejs,Example site                                   |                                 |
+|189|https://medium.com/plotly/                                                                                                                                                                        |Library,Plotly & Dash                                  |                                 |
+|190|https://medium.com/plotly/7-dash-apps-bringing-ai-ml-to-sports-analytics-cb6e7c993064                                                                                                             |Plotly & Dash                                          |                                 |
+|191|                                                                                                                                                                                                  |                                                       |                                 |
+|192|https://www.fusioncharts.com/blog/best-python-data-visualization-libraries/                                                                                                                       |Library,Data Visualization                             |                                 |
+|193|https://artsandculture.google.com/pocketgallery/IQUxrMnvNro2DQ                                                                                                                                    |Example sites,WebGL                                    |                                 |
+|194|https://artsandculture.google.com/achievements                                                                                                                                                    |Example site                                           |                                 |
+|195|https://github.com/AllThingsSmitty/css-protips                                                                                                                                                    |CSS                                                    |                                 |
+|197|https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Advanced_animations                                                                                                          |WebGL                                                  |                                 |
+|198|https://le-voyage-azarien.art/                                                                                                                                                                    |Example site                                           |                                 |
+|199|https://www.jendrikillner.com/post/graphics-programming-weekly-issue-216/                                                                                                                         |Lecture & Article                                      |                                 |
+|200|https://www.vantajs.com/                                                                                                                                                                          |Library                                                |                                 |
+|201|https://blenderesse.gumroad.com/                                                                                                                                                                  |Blender                                                |                                 |
+|202|https://youtu.be/f50Vv-Lq20Qhttps://youtu.be/JAZIXt4IxsU                                                                                                                                          |Lecture & Article,Blender                              |                                 |
+|203|https://twitter.com/Ray_T6L/status/1475084876298989570                                                                                                                                            |Blender                                                |                                 |
+|204|https://twitter.com/bruno_simon/status/1474760410209345546                                                                                                                                        |Blender                                                |                                 |
+|205|https://twitter.com/erindale_xyz/status/1474250246003773440                                                                                                                                       |Blender                                                |                                 |
+|206|https://minitokyo3d.com/                                                                                                                                                                          |Map,Example site                                       |                                 |
+|207|https://docs.mapbox.com/mapbox-gl-js/example/add-3d-model/                                                                                                                                        |Map,Threejs                                            |                                 |
+|208|https://github.com/ameliemaia/teach-kids-to-code/blob/main/nodes/script.js                                                                                                                        |WebGL                                                  |                                 |
+|209|https://css-tricks.com/cutting-inner-part-element-using-clip-path/                                                                                                                                |CSS,Lecture & Article                                  |                                 |
+|210|https://codepen.io/thebabydino/pen/gORwReM                                                                                                                                                        |SCSS,Creative coding                                   |                                 |
+|211|https://youtu.be/too5ALYrbfU                                                                                                                                                                      |SCSS,Lecture & Article,Creative coding                 |210번 강의                          |
+|212|https://codepen.io/thebabydino/pen/ExWrbqj                                                                                                                                                        |SCSS,Creative coding                                   |                                 |
+|213|https://youtu.be/MSPF-oHpehQ                                                                                                                                                                      |SCSS,Lecture & Article,Creative coding                 |212번 강의                          |
+|214|https://youtube.com/c/anatudor                                                                                                                                                                    |CSS,Lecture & Article                                  |                                 |
+|215|https://codepen.io/thebabydino                                                                                                                                                                    |CSS,Creative coding                                    |                                 |
+|216|https://codepen.io/wfedev/full/rNGJzNY                                                                                                                                                            |CSS,Creative coding                                    |                                 |
+|217|https://youtu.be/H2VkRewBFBM                                                                                                                                                                      |Example site                                           |                                 |
+|218|https://www.magische-spiegelungen.de/                                                                                                                                                             |Example site                                           |                                 |
+|219|https://china.circus-inc.com/                                                                                                                                                                     |Example site                                           |                                 |
+|220|https://codepen.io/acidsound/pen/Epjwoj                                                                                                                                                           |d3.js                                                  |                                 |
+|221|https://codepen.io/acidsound/pen/oMXGoY                                                                                                                                                           |SVG                                                    |                                 |
+|222|https://codepen.io/jkantner/pen/dyZjWvG                                                                                                                                                           |Creative coding,SVG                                    |                                 |
+|223|https://brunch.co.kr/@outlines/62                                                                                                                                                                 |Lecture & Article                                      |                                 |
+|224|https://domenicobrz.github.io/webgl/projects/experiment1/                                                                                                                                         |Example site,WebGL                                     |                                 |
+|225|https://realestate-neotix.vercel.app/                                                                                                                                                             |Example site                                           |                                 |
+|226|http://bm.straightline.jp                                                                                                                                                                         |Example site                                           |                                 |
+|227|https://bm.s5-style.com                                                                                                                                                                           |Example site                                           |                                 |
+|228|https://www.freejapanesefont.com                                                                                                                                                                  |Example site,Font                                      |                                 |
+|229|https://muuuuu.org                                                                                                                                                                                |Example site                                           |                                 |
+|230|https://responsive-jp.com                                                                                                                                                                         |Example site                                           |                                 |
+|231|https://www.webdesignclip.com                                                                                                                                                                     |Example site                                           |                                 |
+|232|https://liginc.co.jp/416443                                                                                                                                                                       |Example site                                           |                                 |
+|233|https://codesandbox.io/embed/object-clump-ssbdsw?codemirror=1                                                                                                                                     |r3f,Creative coding,Physics                            |                                 |
+|234|https://www.artaucentregeneve.ch/fr-fr/artistes/ilana-winderick                                                                                                                                   |Example site                                           |                                 |
+|235|https://www.hoverstat.es/features/marcd                                                                                                                                                           |Example site                                           |                                 |
+|237|https://dev.to/robin_a_p/text-highlighting-using-html-and-css-19n6                                                                                                                                |CSS,Lecture & Article                                  |                                 |
+|238|https://www.awwwards.com/websites/webgl/                                                                                                                                                          |Example site                                           |                                 |
+|239|https://leonard.agency/                                                                                                                                                                           |Example site                                           |                                 |
+|240|https://atelier.net/social-mobility/economic-opportunities-for-our-avatars                                                                                                                        |Example site                                           |                                 |
+|241|https://showcase.pixotronics.com/                                                                                                                                                                 |Example site                                           |                                 |
+|242|https://webdoli.tistory.com/100?category=1035858                                                                                                                                                  |Threejs,Lecture & Article                              |                                 |
+|243|https://webdoli.tistory.com/category/%EC%9B%B9%EA%B0%9C%EB%B0%9C%20%EC%9E%90%EB%A3%8C%EC%8B%A4/three.js%20%ED%94%84%EB%A1%A0%ED%8A%B8%EA%B0%9C%EB%B0%9C%20Code                                    |Threejs,Lecture & Article                              |                                 |
+|244|https://tympanus.net/codrops/2021/08/31/surface-sampling-in-three-js/                                                                                                                             |Threejs,Lecture & Article                              |                                 |
+|245|https://avseoul.net/avseoul                                                                                                                                                                       |Example site,WebGL                                     |                                 |
+|246|https://webgldev.github.io/threejs-journey                                                                                                                                                        |Threejs,Lecture & Article                              |                                 |
+|247|https://github.com/webgldev/threejs-journey/blob/chapter/16_Shadows.md                                                                                                                            |Threejs,Lecture & Article                              |                                 |
+|248|https://github.com/webgldev/threejs-journey/blob/chapter/20_Raycaster.md                                                                                                                          |Threejs,Lecture & Article                              |                                 |
+|249|https://www.sketchup.com/ko                                                                                                                                                                       |WebGL,Tool                                             |                                 |
+|250|https://clara.io/                                                                                                                                                                                 |WebGL,Tool                                             |                                 |
+|251|https://github.com/mrdoob/three.js/pull/23508                                                                                                                                                     |Library,Threejs                                        |                                 |
+|252|https://codepen.io/mdusmanansari/pen/bGYrmjY                                                                                                                                                      |CSS                                                    |                                 |
+|253|                                                                                                                                                                                                  |                                                       |                                 |
+|254|https://ikeryou.jp/sketch/165/                                                                                                                                                                    |WebGL                                                  |                                 |
+|255|https://codesandbox.io/embed/shoe-configurator-forked-2rztl7                                                                                                                                      |Threejs,r3f                                            |                                 |
+|256|https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort                                                                                                       |Lecture & Article                                      |                                 |
+|257|https://underscorejs.org/                                                                                                                                                                         |Library                                                |                                 |
+|258|https://github.com/potree/potree                                                                                                                                                                  |WebGL,Plotly & Dash                                    |                                 |
+|259|https://23min.tistory.com/8                                                                                                                                                                       |Plotly & Dash                                          |                                 |
+|260|https://codepen.io/Alca/pen/wjxLmK                                                                                                                                                                |WebGL,Plotly & Dash                                    |                                 |
+|261|https://codepen.io/pehaa/pen/wvPgboY                                                                                                                                                              |WebGL                                                  |                                 |
+|262|https://github.com/danielesteban/three-raymarcher                                                                                                                                                 |Threejs,WebGL                                          |                                 |
+|263|https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array                                                                                                            |Lecture & Article                                      |                                 |
+|264|https://github.com/webgldev/threejs-journey/blob/chapter/15_Lights.md                                                                                                                             |Threejs,Lecture & Article                              |                                 |
+|265|https://robinpayot.com/                                                                                                                                                                           |Creative coding,Plotly & Dash                          |                                 |
+|266|https://css-tricks.com/new-css-color-features-preview                                                                                                                                             |CSS,Lecture & Article                                  |                                 |
+|267|https://kepler.gl/demo/nyctrips                                                                                                                                                                   |Map,Library                                            |                                 |
+|268|https://deck.gl/examples/trips-layer/                                                                                                                                                             |Map,Library                                            |                                 |
+|269|https://jackface.oopy.io/framer                                                                                                                                                                   |Library,WebGL                                          |                                 |
+|270|https://github.com/sdl60660/river-runner                                                                                                                                                          |Map,WebGL                                              |                                 |
+|271|https://river-runner-global.samlearner.com/                                                                                                                                                       |Map,WebGL                                              |                                 |
+|272|https://comicss.art/                                                                                                                                                                              |CSS                                                    |                                 |
+|273|https://lusion.co/                                                                                                                                                                                |CSS,WebGL                                              |                                 |
+|274|https://www.awwwards.com/                                                                                                                                                                         |Example sites                                          |                                 |
+|275|https://garden-eight.com/                                                                                                                                                                         |Example sites                                          |                                 |
+|276|https://github.com/pmndrs/lamina                                                                                                                                                                  |Library,Threejs                                        |                                 |
+|277|https://codesandbox.io/embed/basic-demo-forked-nvup4?codemirror=1                                                                                                                                 |Threejs,r3f                                            |                                 |
+|278|https://codepen.io/amit_sheen/pen/LYORMgL                                                                                                                                                         |CSS,SCSS                                               |                                 |
+|279|https://www.leemeichin.com/posts/yes-i-can-connect-to-a-db-in-css.html                                                                                                                            |CSS                                                    |                                 |
+|280|https://velog.io/@dfgh1534/cmu-%EA%B7%B8%EB%9E%98%ED%94%BD%EC%8A%A4-%EA%B0%95%EC%9D%98-%EC%9A%94%EC%95%BD-lecture-04-drawing-a-triangle                                                           |Lecture & Article,WebGL,OpenGL                         |                                 |
+|281|https://css-weekly.com/issue-487                                                                                                                                                                  |CSS                                                    |                                 |
+|282|https://www.joshwcomeau.com/css/designing-shadows                                                                                                                                                 |CSS                                                    |                                 |
+|283|https://www.figma.com/community/plugin/1068595505353552645/Beautiful-Shadows                                                                                                                      |CSS,Figma                                              |                                 |
+|284|https://www.instagram.com/p/CYKtdfvvYsf/?utm_medium=copy_link                                                                                                                                     |p5.js                                                  |                                 |
+|285|https://processing.org/                                                                                                                                                                           |Library,p5.js                                          |                                 |
+|286|https://www.amazon.co.jp/dp/4802510128/ref=cm_sw_r_awdo_navT_g_MJCE1VBDXTQB292B5VM5                                                                                                               |Creative coding                                        |                                 |
+|287|https://mitpress.mit.edu/books/code-creative-medium                                                                                                                                               |Creative coding                                        |                                 |
+|288|https://slideshow.redgoose.me/watch/6190a6c72f238/                                                                                                                                                |CSS,Creative coding                                    |                                 |
+|289|https://playcanvas.com/project/677410/overview/galleria                                                                                                                                           |WebGL,Tool                                             |                                 |
+|290|https://playcanv.as/p/Dx2IVZ17/                                                                                                                                                                   |WebGL,Tool                                             |                                 |
+|291|https://schteppe.github.io/cannon.js/                                                                                                                                                             |Library,Physics                                        |                                 |
+|292|https://codesandbox.io/embed/ping-pong-with-valtio-wb25s                                                                                                                                          |GLTF,r3f,Reactjs                                       |                                 |
+|293|https://www.instagram.com/p/CPYCs_FJOzK/?utm_source=ig_web_copy_link                                                                                                                              |Threejs,r3f,Reactjs,WebGL                              |                                 |
+|294|https://threejs.org/docs/#api/en/lights/AmbientLight                                                                                                                                              |Threejs,Lecture & Article                              |                                 |
+|295|https://tympanus.net/codrops/2022/01/19/animate-anything-along-an-svg-path                                                                                                                        |GSAP,SVG                                               |                                 |
+|296|https://codepen.io/Nekto/pen/xxPwLPa                                                                                                                                                              |Threejs,SVG                                            |                                 |
 
-https://codesandbox.io/s/bdctv 
-
-https://spite.github.io/codevember-2021/ 
-
-https://virtualexpodubai.com 
-
-https://www.instagram.com/p/CUh2UamgPBz/... 
-
-https://www.instagram.com/bentonjohn/p/CVDy2hLKRok/... 
-
-https://github.com/chokcoco/iCSS 
-
-https://cineshader.com/ 
-
-https://matrix.spline.design/?s=09 
-
-https://kr.ncsoft.com/kr/index.do 
-
-https://dev.to/maniflames/pointcloud-effect-in-three-js-3eic 
-
-https://lab.julienverneaut.com/matcap-editor/?s=09 
-
-https://github.com/jverneaut/laboratoire 
-
-https://exhibition39.snuaaa.net 
-
-https://bugzilla.mozilla.org/show_bug.cgi?id=1702924&s=09 
-
-https://ishadeed.com/article/defensive-css/?s=09 
-
-https://codesandbox.io/u/drcmda 
-
-https://codesandbox.io/.../react-three-fiber-suspense... 
-
-https://github.com/tldraw/tldraw 
-
-https://twitter.com/seflless/status/1463710140687949826... 
-
-https://youtu.be/A4wchK34tnU 
-
-https://youtu.be/0Bm8CjpdsAY 
-
-https://github.com/jagracar/webgl-shader-examples 
-
-https://webgl-shaders.com/ 
-
-https://codepen.io/motionharvest/pen/WNQYJyM 
-
-https://www.bluemarinefoundation.com/the-sea-we-breathe/?s=09 
-
-https://css-tricks.com/the-power-and-fun-of-scope-with.../ 
-
-https://mockrocket.io/?s=09 
-
-https://codesandbox.io/embed/magic-mirror-ddk57?codemirror=1 
-
-https://codesandbox.io/.../mixing-html-and-webgl-w... 
-
-https://www.etsy.com/shop/vizcart 
-
-https://www.instagram.com/p/CJ_NUs_lGpJ/... 
-
-https://github.com/NikLever/GLSLfromScratch 
-
-https://youtube.com/playlist... 
-
-https://github.com/hwan-ajou/webgl-1.0 
-
-https://tympanus.net/codrops/ 
-
-https://github.com/codrops 
-
-https://creativeprojects.vercel.app/ 
-
-https://github.com/javusScriptus/creativeprojects 
-
-https://www.domestika.org/en/courses/2729-creative-coding-making-visuals-with-javascript 
-
-https://pendereckisgarden.pl/en 
-
-https://www.awwwards.com/pendereckis-garden-by-huncwot.html 
-
-https://thearchives.manoloblahnik.com 
-
-https://godly.website/websites/webgl 
-
-https://godly.website/
-
-https://threejs.org/ 
-
-https://greensock.com/showcase/ 
-
-https://www.awwwards.com/ 
-
-https://chrome.google.com/.../glcipcfhmopcgidicgdociohdoi... 
-
-https://chrome.google.com/.../ipjibgkeofiedbfcfekfggdmjhh... 
-
-https://www.framer.com/docs/layoutcamera/?s=09 
-
-https://codesandbox.io/.../framer-motion-3d-layoutcamera... 
-
-https://github.com/shuding/cobe 
-
-https://openprocessing.org/crayon/ 
-
-https://opensea.io/collection/crayon-codes-v1 
-
-https://rarible.com/ 
-
-https://2021.stateofcss.com/en-us/ 
-
-https://github.com/Sean.../Three.js-TypeScript-Boilerplate 
-
-https://youtube.com/playlist... 
-
-https://threejs-journey.com/?s=09 
-
-https://greensock.com/3-9 
-
-https://github.com/greensock/GSAP/releases/tag/3.9.0 
-
-https://github.com/chokcoco/iCSS/issues/109 
-
-https://developer.mozilla.org/.../Web/CSS/@property/syntax 
-
-https://developer.mozilla.org/en-US/docs/Web/CSS/@property 
-
-https://dmnsgn.github.io/codevember-2017/26.html 
-
-http://felixpalmer.github.io/lod-terrain/ 
-
-https://avin.github.io/sketches/091_snow_forest.html 
-
-https://ironvelvet.studio/works 
-
-https://codepen.io/zachernuk/full/oNGWZgG?s=09 
-
-https://twitter.com/brdrck/status/1471926235274096648?s=20 
-
-https://www.fileviewpro.com/ko/file-extension-glb/ 
-
-https://bayazuma.github.io/grasswind/ 
-
-https://github.com/bayazuma/grasswind 
-
-https://primavistatexture.com/ 
-
-https://www.patterns.dev/ 
-
-https://github.com/lydiahallie/javascript-questions 
-
-https://codepen.io/pehaa/pen/KKXMKMN 
-
-https://github.com/kekkorider/threejs-audio-reactive-visual 
-
-https://codepen.io/Nekto/pen/vYeJQMX 
-
-https://gallery.mediciism.com 
-
-https://github.com/Resten.../christmas_tree/tree/master/html 
-
-https://github.com/Resten1497/christmas_tree/tree/master/js 
-
-https://boytchev.github.io/etudes/webgl/freezing-cube.html 
-
-https://boytchev.github.io/etudes/ 
-
-https://github.com/boytchev/etudes 
-
-https://twitter.com/johnnyd.../status/1473737516788424705... 
-
-https://github.com/oframe/ogl 
-
-https://css-tricks.com/grainy-gradients/ 
-
-https://youtu.be/qrGHs4d0yt0 
-
-https://codepen.io/DavidJAldred/pen/pVbQBJ 
-
-https://developer.mozilla.org/ko/docs/Web/CSS/background 
-
-https://yeun.github.io/open-color/ingredients.html 
-
-https://colorhunt.co/ 
-
-https://paletton.com 
-
-https://colors.muz.li/ 
-
-https://maketintsandshades.com 
-
-https://omatsuri.app/color-shades-generator 
-
-https://www.bram.us/2021/12/27/css-in-2022 
-
-https://developer.mozilla.org/en-US/docs/Web/SVG/Element/feTurbulence 
-
-https://codesandbox.io/s/simple-christmas-tree-c6jjj?file=%2Findex.html 
-
-https://youtu.be/x009wWOVB6M 
-
-https://refactoring.guru 
-
-https://threejs.org/docs 
-
-https://threejs.org/examples/webgl_loader_3dm.html 
-
-https://www.figma.com/community/file/834210307944210537 
-
-https://jsfiddle.net/Avantgarde95/2q1ofgpn 
-
-https://github.com/lume/lume 
-
-https://redcamel.github.io/RedGL2/example/index.html 
-
-https://github.com/redcamel/RedGL2 
-
-https://present.do/presentations/61346fa35b179c0da746536a 
-
-https://www.youtube.com/watch?v=mB9d5RDNryw 
-
-https://simulacroix.github.io/dithering 
-
-https://www.npmjs.com/package/korat 
-
-https://github.com/arwes/arwes 
-
-https://brunch.co.kr/@99-life/2 
-
-https://www.notion.so/CSS-ce833773a8174100993856d9ca5cd58f 
-
-https://www.npmjs.com/package/3d-force-graph 
-
-https://github.com/hiloteam/Hilo3d 
-
-https://codesandbox.io/s/mixing-html-and-webgl-w-occlusion-9keg6 
-
-https://codesandbox.io/s/magic-mirror-ddk57 
-
-https://youtu.be/XGfMB76U5ts 
-
-https://www.shadertoy.com/view/Xty3zd 
-
-https://docs.pmnd.rs/react-three-fiber/getting-started/examples 
-
-https://drei.pmnd.rs/?path=%2Fstory%2Fperformance-adaptive--adaptive-scene-st
-
-> 12월 공유 감사합니다. 이기은, 박진호, 장성진, 이재호, Hun-Min Park, Jeongho Ahn, 이보나, Seungmin Lee, 이선협, 한연희, Erin Lee
 
 </details>
 
-***
 
 <details>
-<summary>2022년 1월</summary>
-
-https://codesandbox.io/embed/motion-one-morph-svg-paths-qldsz?file=%2Fsrc%2Findex.js&codemirror=1
-
-https://observablehq.com/@acidsound/monofireworks
-
-https://observablehq.com/@vezwork/webgl2-shader
-
-https://nivo.rocks/network/canvas/
-
-https://bl.ocks.org/mbostock/950642
-
-https://github.com/plouc/nivo/issues/1110
-
-https://nivo.rocks/storybook/?path=/docs/networkcanvas--custom-node-renderer 
-
-https://www.loewe.com/int/en/stories-projects/loewe-spirited-away-harajuku-popup.html
-
-https://www.smashingmagazine.com/2022/01/css-radial-conic-gradient/
-
-https://developer.mozilla.org/.../Global_Objects/Math/random
-
-https://www.desmos.com/calculator?lang=ko 
-
-https://github.com/Asabeneh/30-Days-Of-JavaScript
-
-https://github.com/yjs03057/33-js-concepts
-
-https://github.com/trekhleb/javascript-algorithms
-
-https://github.com/mgechev/javascript-algorithms
-
-https://github.com/humanwhocodes/computer-science-in-javascript
-
-https://github.com/kim-taewoo/threejs_journey/blob/master/09-geometries-final/src/script.js
-
-https://brunosimon.notion.site/brunosimon/Resources-Learning-45cacca08e884d0f9c4cf59d0d9b8d72
-
-https://www.youtube.com/watch?v=FJ44qmE5odc
-
-https://2020.feconf.kr/
-
-https://www.instagram.com/rrnwnsgl/?hl=ko 
-
-https://uxplus.dev/noisy-grid/
-
-https://github.com/.../blob/master/07-cameras/src/script.js
-
-https://github.com/.../master/06-animations/src/script.js
-
-https://www.youtube.com/watch?v=-ybVWOHVDyA
-
-https://velog.io/@teo/css-history-1
-
-https://github.com/ManzDev/frontend-evolution
-
-https://www.easylogic.studio 
-
-https://github.com/.../04-webpack_05-transform/src/script.js
-
-https://m.blog.naver.com/ycpiglet/222616179132
-
-https://github.com/.../thr.../blob/master/03_basic/script.js
-
-https://3dtextures.me/2019/04/16/door-wood-001/
-
-https://threejs.org/docs/#api/en/constants/Textures
-
-https://en.wikipedia.org/wiki/Moir%C3%A9_pattern
-
-https://threejs.org/docs/?q=mate#api/en/constants/Materials
-
-https://github.com/nidorx/matcaps
-
-https://www.ilithya.rocks/
-
-https://github.com/PacktPublishing/CSS---The-Complete-Guide-incl.-Flexbox-Grid-and-Sass-
-
-https://www.zoomkoding.com/3d-book/
-
-https://github.com/zoomkoding/3d-book
-
-https://zoomkoding.github.io/3d-book/
-
-https://lab.mango.astanusic.dev/
-
-https://nvlabs.github.io/instant-ngp/
-
-https://github.com/aleksei-berezkin/guess-css
-
-https://www.guess-css.app/
-
-https://velog.io/@soonmac/%ED%86%A0%EC%9D%B4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%82%98%EB%A7%8C%EC%9D%98-%EB%B0%B1%EC%8B%A0-%EC%9D%B8%EC%A6%9D-%EC%B9%B4%EB%93%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0
-
-https://tympanus.net/codrops/2022/01/12/pixel-distortion-effect-with-three-js
-
-https://github.com/caa1211/webOAcard
-
-https://brunch.co.kr/@dalgudot/141
-
-https://codesandbox.io/embed/reflector-variant-forked-lx2h8
-
-https://www.smashingmagazine.com/2021/01/front-end-performance-2021-free-pdf-checklist
-
-https://codepen.io/Mamboleoo/pen/qBPyqKg
-
-https://github.com/maxwellito/minimator
-
-https://codepen.io/cobra_winfrey/full/GRMdwwG
-
-https://github.com/seek-oss/vanilla-extract
-
-https://uxplus.dev/tickler/
-
-https://github.com/markshenouda/Solar-System
-
-https://solar-system-r3f.netlify.app/
-
-https://youtu.be/0jHsq36_NTU
-
-https://codesandbox.io/embed/use-p2-marble-run-9feis...
-
-https://github.com/schteppe/p2.js
-
-https://readyplayer.me/ 
-
-https://www.mixamo.com/ 
-
-https://pangol.github.io/donate99/ 
-
-https://medium.com/plotly/
-
-https://medium.com/plotly/7-dash-apps-bringing-ai-ml-to-sports-analytics-cb6e7c993064
-
-https://miro.medium.com/max/1030/0*4u0c4cFOXgSIikFd
-
-https://www.fusioncharts.com/blog/best-python-data-visualization-libraries/
-
-https://artsandculture.google.com/pocketga.../IQUxrMnvNro2DQ
-
-https://artsandculture.google.com/achievements
-
-https://github.com/AllThingsSmitty/css-protips
-
-https://github.com/.../master/translations/ko-KR/readme.md
-
-https://developer.mozilla.org/.../Tut.../Advanced_animations
-
-https://le-voyage-azarien.art/
-
-https://www.jendrikillner.com/post/graphics-programming-weekly-issue-216/
-
-https://www.vantajs.com/
-
-https://blenderesse.gumroad.com/ 
-
-https://youtu.be/f50Vv-Lq20Q
-https://youtu.be/JAZIXt4IxsU
-
-https://twitter.com/Ray_T6L/status/1475084876298989570
-
-https://twitter.com/bruno_simon/status/1474760410209345546
-
-https://twitter.com/erindale_xyz/status/1474250246003773440
-
-https://minitokyo3d.com/
-
-https://docs.mapbox.com/mapbox-gl-js/example/add-3d-model/ 
-
-https://github.com/ameliemaia/teach-kids-to-code/blob/main/nodes/script.js
-
-https://css-tricks.com/cutting-inner-part-element-using-clip-path/
-
-
-https://codepen.io/thebabydino/pen/gORwReM
-
-https://youtu.be/too5ALYrbfU
-
-https://codepen.io/thebabydino/pen/ExWrbqj
-
-https://youtu.be/MSPF-oHpehQ
-
-https://youtube.com/c/anatudor
-
-https://codepen.io/thebabydino
-
-https://codepen.io/wfedev/full/rNGJzNY
-
-> 1월 공유 감사합니다. 박진호, 정현우, Seungmin Lee, 김정규, 박용, 박찬웅, 사광호, 이재호, Erin Lee
-
-</details>
-
-***
-
-<details>
-<summary>2022년 2월</summary>
-
-https://china.circus-inc.com/
-
-https://codepen.io/acidsound/pen/Epjwoj
-
-https://codepen.io/acidsound/pen/oMXGoY
-
-https://codepen.io/jkantner/pen/dyZjWvG
-
-https://brunch.co.kr/@outlines/62
-
-https://domenicobrz.github.io/webgl/projects/experiment1/
-
-https://realestate-neotix.vercel.app/
-
-http://bm.straightline.jp
-
-https://bm.s5-style.com
-
-https://www.freejapanesefont.com
-
-https://muuuuu.org
-
-https://responsive-jp.com
-
-https://www.webdesignclip.com
-
-https://liginc.co.jp/416443
-
-https://codesandbox.io/embed/object-clump-ssbdsw?codemirror=1
-
-https://www.artaucentregeneve.ch/fr-fr/artistes/ilana-winderick
-
-https://www.hoverstat.es/features/marcd
-
-https://pickntwist.gucci.com/
-
-https://dev.to/robin_a_p/text-highlighting-using-html-and-css-19n6
-
-https://www.awwwards.com/websites/webgl/
-
-https://leonard.agency/
-
-https://atelier.net/social-mobility/economic-opportunities-for-our-avatars
-
-https://showcase.pixotronics.com/
-
-https://webdoli.tistory.com/100?category=1035858
-
-https://webdoli.tistory.com/category/%EC%9B%B9%EA%B0%9C%EB%B0%9C%20%EC%9E%90%EB%A3%8C%EC%8B%A4/three.js%20%ED%94%84%EB%A1%A0%ED%8A%B8%EA%B0%9C%EB%B0%9C%20Code
-
-https://tympanus.net/codrops/2021/08/31/surface-sampling-in-three-js/
-
-https://avseoul.net/avseoul
-
-https://webgldev.github.io/threejs-journey
-
-https://github.com/webgldev/threejs-journey/blob/chapter/16_Shadows.md
-
-https://github.com/webgldev/threejs-journey/blob/chapter/20_Raycaster.md
-
-https://www.sketchup.com/ko
-
-https://clara.io/
-
-https://github.com/mrdoob/three.js/pull/23508
-
-https://codepen.io/mdusmanansari/pen/bGYrmjY
-
-https://m.blog.naver.com/doek11/222630532341
-
-https://ikeryou.jp/sketch/165/
-
-https://codesandbox.io/embed/shoe-configurator-forked-2rztl7
-
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort 
-
-https://underscorejs.org/
-
-https://github.com/potree/potree
-
-https://23min.tistory.com/8
-
-https://codepen.io/Alca/pen/wjxLmK
-
-https://codepen.io/pehaa/pen/wvPgboY
-
-https://github.com/danielesteban/three-raymarcher
-
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
-
-https://github.com/webgldev/threejs-journey/blob/chapter/15_Lights.md
-
-https://robinpayot.com/
-
-https://css-tricks.com/new-css-color-features-preview
-
-https://kepler.gl/demo/nyctrips
-
-https://deck.gl/examples/trips-layer/
-
-https://jackface.oopy.io/framer
-
-https://github.com/sdl60660/river-runner
-
-https://river-runner-global.samlearner.com/
-
-https://comicss.art/
-
-https://lusion.co/
-
-https://www.awwwards.com/ 
-
-https://garden-eight.com/
-
-https://github.com/pmndrs/lamina
-
-https://codesandbox.io/embed/basic-demo-forked-nvup4?codemirror=1
-
-https://codepen.io/amit_sheen/pen/LYORMgL
-
-https://www.leemeichin.com/posts/yes-i-can-connect-to-a-db-in-css.html
-
-https://velog.io/@dfgh1534/cmu-%EA%B7%B8%EB%9E%98%ED%94%BD%EC%8A%A4-%EA%B0%95%EC%9D%98-%EC%9A%94%EC%95%BD-lecture-04-drawing-a-triangle
-
-https://css-weekly.com/issue-487
-
-https://www.joshwcomeau.com/css/designing-shadows
-
-https://www.figma.com/community/plugin/1068595505353552645/Beautiful-Shadows
-
-https://www.instagram.com/p/CYKtdfvvYsf/?utm_medium=copy_link
-
-https://processing.org/
-
-https://www.amazon.co.jp/dp/4802510128/ref=cm_sw_r_awdo_navT_g_MJCE1VBDXTQB292B5VM5
-
-https://mitpress.mit.edu/books/code-creative-medium
-
-https://slideshow.redgoose.me/watch/6190a6c72f238/ 
-
-https://playcanvas.com/project/677410/overview/galleria
-
-https://playcanv.as/p/Dx2IVZ17/
-
-https://schteppe.github.io/cannon.js/
-
-https://codesandbox.io/embed/ping-pong-with-valtio-wb25s
-
-https://www.instagram.com/p/CPYCs_FJOzK/?utm_source=ig_web_copy_link
-
-https://threejs.org/docs/#api/en/lights/AmbientLight
-
-https://tympanus.net/codrops/2022/01/19/animate-anything-along-an-svg-path
-
-https://codepen.io/Nekto/pen/xxPwLPa
+<summary><b>🔥 JavaScript & CSS  Quiz</b></summary>
 
 ```js
-// 자바스크립트 문제 2022.02.13
 let nums = [5, 10, 20]
 let sum = nums[1] + nums.sort()[1]
 console.log(sum)
@@ -628,18 +307,12 @@ console.log(sum)
 > 2위) 30
 
 // 문제 정답을 해석해주신 내용 (지환님, 보나님)
-// 정답은 30일텐데요, 이유는 nums.sort() 의 결과가 [10, 20, 5] 일 것이기 때문입니다. 그렇게 되는 이유는 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort 에 나와있는 것처럼, sort에 함수가 없을 때는 숫자를 문자열로 바꿔서 비교하는데 이때는 10, 20이 5보다 앞서기 때문이라고 합니다.
+// 정답은 30일텐데요, 이유는 nums.sort() 의 결과가 [10, 20, 5] 일 것이기 때문입니다. 그렇게 되는 이유는 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort 에 나와있는 것처럼, sort에 함수가 없을 때는 숫자를 문자열로 바꿔서 비교하는데이때는 10, 20이 5보다 앞서기 때문이라고 합니다.
 // sort에 내 의도에 알맞는 콜백을 잘 넘겨주는 것도 좋은 방법일 것 같습니다!
 // 다음과 같은 라이브러리를 애용하시는걸 추천드려욤 https://underscorejs.org/
-
-// 투표에 참여해주신 분들
-// 신동주, 정현우, 이덕희, Hyunseo Kang, 박진호, 이원우, park Chansung, 황준우, Jihun Lee
-
 ```
 
 ```js
-// 자바스크립트 문제 2022.02.12
-
 const numbers = [1, 2, 3];
 numbers[10] = 11;
 console.log(numbers);
@@ -655,16 +328,10 @@ console.log(numbers);
 // 그런데 여기서 길이가 3인 array가 11로 늘어났으니 늘어나면서 생긴 빈 공간이 있을텐데, 실제로 array는 [1,2,3,,,,,,,,11]의 형태이지만 "비어 있음"을 나타내기 위해 empty로 표시되고 연속된 7개의 empty이기 떄문에 empty × 7 로 나타나게 됩니다 🙂
 // 아래의 링크에서 JavaScript Array의 length에 대한 부분을 참고해보시면 도움이 될 것 같습니다!
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
-
-// 투표에 참여해주신 분들
-// Suho Lee, 김상훈, 김태우, 이윤규, 장승빈, 황준우, Jang Seon Ho, Hun-Min Park, 정현우, Mac Kim, 박진호, 김정규
-
 ```
 
 
 ```js
-// 자바스크립트 문제 2022.02.09
-
 for (var i = 0; i < 3; i++) {
  setTimeout(() => console.log(i), 1);
 }
@@ -683,15 +350,11 @@ for (var i = 0; i < 3; i++)
 (function(i) {
 setTimeout(() => console.log(i), 1);
 })(i)
-
-// 투표에 참여해주신 분들
-// Suho Lee, 김태우, Noel Kim, 황준우, Jang Seon Ho, Hun-Min Park, 정현우, JinGu Youn, 이덕희, 박진호, Jeongho Ahn, 이원우, 사광호, 리누, 김정규, JiHoon Lee, 이윤규, 장승빈, Park Chansung, Yu Jin Yi
-
 ```
 
 
 ```css
-/* 선호하는 클래스명 투표 2022.02.06 */
+/* 선호하는 클래스명 */
 
 > 1위) .contact-form > .heading
 > 2위) .contact-form__heading
@@ -699,39 +362,23 @@ setTimeout(() => console.log(i), 1);
 > 4위) .contactFormHeading
 0표 .ContactForm-Heading
 0표 .ContactFormHeading
-
-/* 투표에 참여해주신 분들 */
-/* 김태우, 한연희, Min K. Yi, 이윤규, 장승빈, 오지환, 장성진, 이종우, 신동주, 정현우, Hyunseo Kang, 박진호, 정용진, Park Chansung, 리누, 이재호, 이서윤, JiHoon Lee, 오지환, 황준우, Jang Seon Ho, 이덕희, Bora Violet Lee, 이기은, 붉은거위, Erin Lee */
 ```
 
 ```css
-/* 요소를 중앙으로 맞추는 방법 (Classic CSS, CSS Grid, Flexbox) 2022.02.11 */
+/* 요소를 중앙으로 맞추는 방법 (Classic CSS, CSS Grid, Flexbox) */
 position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
 display: grid; place-items: center;
 display: flex; align-items: center; justify-content: center;
 ```
 
-> 2월 공유 감사합니다. 김태우, 이재호, 붉은거위, 조병승, 김성우, 이서윤, 박진호, Park Chansung, 정현우, 이윤규, JiHoon Lee, 황준우, 이기은, Jeongho Ahn, 이보나, 류지환, 엄태성, Erin Lee
-
 </details>
 
-***
-
-<details>
-<summary>2022년 3월</summary>
-</details>
-
-***
-
-<details>
-<summary>2022년 4월</summary>
-</details>
-
-***
-
-<details>
-<summary>2022년 5월</summary>
-</details>
-
-***
+> 
+> 이 리포는 복습과 자료 찾기용입니다.  
+> 같이 공부하시는 분들께서 댓글이나 포스팅으로 공유해주신 자료와 제가 공유한 자료입니다.  
+> 자료는 매월 말에 업데이트됩니다. 감사합니다.
+>  
+> 같이 공부하시는 분들 참여 감사합니다 ♡  
+> 
+> 김상훈, 김정규, 김태우, 리누, 박진호, 박찬웅, 붉은거위, 사광호, 신동주, 오지환, 이기은, 이덕희, 이보나, 이서윤, 이원우, 이윤규, 김성우, 이재호, 이종우, 장성진, 장승빈, 박용, 조병승, 정용진, 정현우, 엄태성, 한연희, 황준우, 이선협, 류지환, Bora Violet Lee, Erin Lee, Hun-Min Park, Hyunseo Kang, Jang Seon Ho, Jeongho Ahn, JiHoon Lee, Seungmin Lee, JinGu Youn, Mac Kim, Min K. Yi, Noel Kim, park Chansung, Suho Lee, Yu Jin Yi
 
