@@ -416,12 +416,8 @@ display: flex; align-items: center; justify-content: center;
 <details>
 <summary><b>🔥 Thank you for your commitment</b></summary>
 
-> 이 리포는 복습과 자료 찾기용입니다.  
-> 같이 공부하시는 분들께서 댓글이나 포스팅으로 공유해주신 자료와 제가 공유한 자료입니다.  
-> 자료는 매월 말에 업데이트됩니다. 감사합니다.
 >  
->   
-> 
-> 김상훈, 김정규, 김태우, 리누, 박진호, 박찬웅, 붉은거위, 사광호, 신동주, 오지환, 이기은, 이덕희, 이보나, 이서윤, 이원우, 이윤규, 김성우, 이재호, 이종우, 장성진, 장승빈, 박용, 조병승, 정용진, 정현우, 엄태성, 한연희, 황준우, 이선협, 류지환, Bora Violet Lee, Erin Lee, Hun-Min Park, Hyunseo Kang, Jang Seon Ho, Jeongho Ahn, JiHoon Lee, Seungmin Lee, JinGu Youn, Mac Kim, Min K. Yi, Noel Kim, park Chansung, Suho Lee, Yu Jin Yi
+> 권혁환, 김상훈, 김성우, 김송희, 김정규, 김태우, 류지환, 리누, 박용, 박진호, 박찬웅, 붉은거위, 사광호, 신동주, 엄태성, 오지환, 이기은, 이덕희, 이보나, 이서윤, 이선협, 이원우, 이윤규, 이재호, 이종우, 이진재, 장성진, 장승빈, 정용진, 정현우, 조병승, 최고운, 한연희, 황준우, Bora Violet Lee, Erin Lee, Hun-Min Park, Hyunseo Kang, Jang Seon Ho, jehyun Lee, Jeongho Ahn, JiHoon Lee, JinGu Youn, Mac Kim, Min K. Yi, Noel Kim, park Chansung, Seungmin Lee, Suho Lee, Yu Jin Yi
+>  
 
 </details>
