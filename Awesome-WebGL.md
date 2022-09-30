@@ -8,8 +8,89 @@
 <br/>
 
 
+리액트에서 threejs 사용 가능한 r3f가 있듯이 pixi fiber 라이브러리도 있는거 같습니다. pixi는 Pmndrs에서 만든건 아닌데 React fiber 시리즈가 라이브러리 별로 나오면 리액트에서 webgl 사용하는 재미가 늘어날거 같습니다. https://github.com/michalochman/react-pixi-fiber
+
+HLSL GLSL MSL WGSL 셰이더 비교 글 입니다. wgsl이 WebGPU 전용 셰이더였군요. https://alain.xyz/blog/a-review-of-shader-languages
+
+작년엔 넥스트 컨퍼런스 페이지 디자인 평범했던걸로 기억하는데 올해는 간단한 Webgl을 추가했군요. 큐브를 보석에 비추면 프리즘이 나옵니다. https://nextjs.org/conf
+
+앗? 네이버에서 3d모델 뷰어도 만들었었군요!https://github.com/naver/egjs-view3d
+
+gsap, 3js, webgi로 만든 예제 입니다. 이번에 스터디 시작하면 전 이거 만들어보려 합니다. 생각만해도 즐겁습니다 하핳   
+예제 : https://sudhir9297.github.io/jiotto_caspita_f1/  
+코드 : https://github.com/sudhir9297/jiotto_caspita_f1
+
+유니티에서 작업하고 needle툴로 3js 익스포트할때 음악도 같이 내보냈다고 합니다. 툴 자체에 어디까지 옵션이 있는지 궁금해집니다. https://songs-of-cultures.glitch.me/  
+글리치에 예제 코드 보면 fastify로 셋팅되어있어요. needle은 gz으로 불러오나봅니다. https://glitch.com/edit/#!/songs-of-cultures
+
+본인 모습을 캐릭터로 만들고 작은 룸에서 스크롤 내리면 실험실로 캐릭터가 이동되는 모션 참고해봐도 좋을거 같습니다.https://david-hckh.com/
+
+오 아주대 교수님 3js 강의 올려주셨어요! 21년도 강의라서 비교적 최신이 되겠군요. 영어 강의가 어려운 분들에게 기초 이해하려면 이 영상 추천드려요! 다른 재생목록 보시면 예전에 공유한 WebGL1.0 기본 개념 이해하기에 좋은 영상도 있습니다.  https://youtube.com/playlist?list=PLKseYrrlvWNqo7IRWr1YzjeaL17GWKTrB
+교육 자료도 오픈해주셨습니다. htps://github.com/learn-cg/three.js.git
+
+> 서윤님이 작업하신 예제 입니다.  
+mask에 clip-path를 inset으로 도형을 만들어주고 도형 클릭 시 클릭 이벤트에 is-open 클래스명을 추가해서 mask의 inset을 초기화 시키는 방법으로 css를 만들어보아요. https://codepen.io/Mamboleoo/pen/NWMgaWV
+
+웹에서 vfx 작업 시 최적화 해주는 라이브러리 입니다. https://github.com/hmans/composer-suite  
+https://vfx-composer-hmans.vercel.app/examples/scenes/asteroid
+
+이 예제는 위에 러이브러리로 만든 작업이라고 합니다. https://space-scene-sandbox.vercel.app  
+https://codesandbox.io/embed/github/hmans/space-scene-sandbox?codemirror=1
+
+r3f 편집기인 theatrejs 입니다. 이걸로 r3f 입문해봐도 좋을거 같아요. https://www.theatrejs.com/blog/theatre-05-is-out
+
+gatsby로 만든 퓨마 사이트 입니다.https://www.puma-campaigns.com/  
+이미지 패럴렉스와 줌인은 gsap를 사용하였군요. 페이지가 로드되면서 전체 webp 이미지 데이터를 바로 받아오느라 데이터를 많이 먹는데, 비동기로 로딩중 화면을 로띠 애니메이션으로 타이포에 컬러가 칠해지는 애니메이션이 적용되어 있습니다.
+
+nuxt와 threejs, swiperjs 로 만든 사이트 입니다. https://wonderland.studio/  
+video와 canvas가 적절히 배치되어 있습니다. 여기서 사용하는 webp와 webm하고 mp4는 imgix라는 미디어 CMS 를 사용하고 있군요. 캐싱이 빨라서 로딩이 빠르게 되는 것 같습니다. https://imgix.com/
+`<source type="image/webp">` 태그 안에 webp를 사이즈별로 적용해서 picture로 감싸주고 있습니다.
+* `html <source> 태그` http://www.tcpschool.com/html-tags/source
+* `html <picture> 태그` http://www.tcpschool.com/html-tags/picture
+* `확장자 Webm` https://namu.wiki/w/WebM
+
+neo.mjs 멀티스레드로 만드는 프론트엔드 프레임워크라고 합니다. https://github.com/neomjs/neo  
+여러 창에서 canvas 사용 시 js 인스턴스를 만들지 않아도 다른 창으로 이동할 수 있어서 성능과 확장성 작업시 빠르게 동작한다는 설명이 나와있습니다. https://itnext.io/the-secret-of-successfully-using-multi-window-webgl-canvas-5a2d05555ad1
+
+> 서윤님이 작업하신 예제 입니다.  
+별건아니고 연습문제인 무지개를 구현한것 공유드립니다. ㅎ..https://glslsandbox.com/e#91582.1
+
+이미 공유된 자료일수도 있을 것 같긴 한데 glsl 공부하기 좋은 자료 추천합니다! https://thebookofshaders.com/
+
+만약 태양광으로 애플워치가 동작한다면 랜딩페이지를 이렇게 상상해서 만들어보는거 너무 좋은거 같아요. 얼마 전에 니콘 카메라 랜딩 페이지도 이 예제랑 카메라 무빙이 비슷했는데 그거 보면서 만들었나봅니다. threejs, GSAP, pixotronics 로 만들었다고 합니다. 오픈된 코드를 갖고 이렇게 창의력을 키워서 응용하는 방법도 배우게 되는거 같습니다. https://watchpro.vercel.app/
+
+블렌더용 텍스처 생성 에디터 입니다. 반복적인 패턴을 자연스럽게 만들어줘요. AI가 어디에 어떻게 사용되는지 알아두면 작업에 도움될거 같아요. https://github.com/carson-katri/dream-textures
+
+호오 달리가 이미지라면, 런웨이는 영상 입니다. 프로덕트로 만들어서 시도하고 있군요. 게다가 실시간 협업이라니, 여기도 잘크면 피그마 처럼 나중에 어도비가 인수하려고 시도해보겠져. 클라이언트 중에 MBC가 있는데 한국 언론이 들어간건 처음 본거 같아요. 지금은 프리버전 얼리억세스 받는중이라고 합니다. https://runwayml.com/
+
+이미지에 glsl 롤로 말리는 효과를 적용해보아요. https://portfolio2022.michalzalobny.com/projects/image-transitions
+
+옥탄 렌더가 얼마전에 실시간 렌더 시 렌더 노이즈를 거의 없앴다는 내용을 봤는데, 이번엔 옥탄렌더와 UX3D가 손잡고 gltf 씬 툴킷을 마야, c4d, 블렌더, 언리얼, 유니티에서 액세스 할 수 있게 한다고 합니다.  gltf와 기존에 렌더가 포함된 확장자들은 현재는 빛이나 텍스처에 차이가 있는데 gltf 지원하게 된다면... 소프트웨어에서만 가능했던 것들이 점점 브라우저로 들어오고 있어서 너무 좋습니다! UX3D, Cesium, NVIDIA, Meta, Microsoft, Google, Adobe, 오토데스크와 같이 gltf 확장해서 gltf meta3d로 변환중이라니, 너무너무 기대됩니다 헤헤헤 https://home.otoy.com/otoy-ux3d-gltf/
+
+개인 포트폴리오가 많이 올라와서 제가 가장 고퀄리티라고 생각하는 개인 포폴 예제도 올려드립니다!three js example 페이지에 올라와있어서 많은 분이 알고있을것이라고 생각하지만 혹시몰라서 ㅎㅎ https://guillaumegouessan.com/
+
+공지) 웹 그래픽스 스터디를 오픈해보았습니다. 신청은 댓글에 신청 코멘트를 남겨주시면 프라이빗 리포로 초대 드리겠습니다. https://github.com/webgldev/2d3d/issues/2
+
+vite 플러그인에도 glsl이 있군요. https://github.com/nemutas/invisible
+
+threejs post-processing에는 어떤 이펙트 들이 있는지 살펴보아요. https://threejs.org/docs/#examples/en/postprocessing/EffectComposer
+
+기하학 모델링 할 때 three bvh csg 사용하면 될거 같습니다.  
+https://github.com/gkjohnson/three-bvh-csg  
+https://gkjohnson.github.io/three-bvh-csg/examples/bundle/multimaterial.html
+
+3js로 만든 개인 포폴이라고 합니다. 모바일은 대응 못한거 같아요. 메뉴 hover시 모니터에 화면 내용이 바뀌는 예제 정도 참고하면 될거 같습니다. https://www.alaintai.com/
+
+디자인토큰 생성해주는 UI툴 입니다. 내용은 직접 넣어야 하는거 같아요. https://github.com/hihayk/shaper
+
+fiber로 프레임 만들고 drei로 가로 스크롤 주고 이미지는 배열에 넣어서 불러왔군요. state는 hover와 click만 있습니다. https://github.com/yvesvinckier/r3f-horizontal-scroll  
+데모 링크 : https://r3f-horizontal-scroll.netlify.app/
+
+VR 하시는 분들 계실지 모르겠지만 VR로 퍼즐 맞추는 미니게임 같은거 도입할때 참고될거 같아서 공유합니다. 3js로 만들어져있어요. https://artsalad.net/https://github.com/felixmariotto/art-salad
+
+
 며칠전에 threejs에 USDZLoader가 추가되었어요. 
-https://github.com/mrdoob/three.js/pull/24568prototype을 보면 지오메트리와 머테리얼 정보가 들어있고 머테리얼에는 셰이더 정보도 들어있습니다.
+https://github.com/mrdoob/three.js/pull/24568prototype 을 보면 지오메트리와 머테리얼 정보가 들어있고 머테리얼에는 셰이더 정보도 들어있습니다.
 
 식재료를 웹지엘로 표현하면 이렇게도 표현할수도 있군요. 식자재를 손질한뒤 갈라진 표현을 도형에 잘 녹여낸거 같아요. 카드 15개를 반복으로 보여주니 재료가 매우 다양해보입니다. 랜덤으로 동영상이 재생되기도 하고 모바일에서도 가볍게 보여주기에 좋아보입니다. nextjs에서 threejs로 만든 예제 입니다.
 픽토그램을 컬러 배리에이션 맞춰서 제품이나 식품 혹은 기타 사물 등 을 가볍게 브랜딩화 시키는 방법도 하나의 홍보로 좋은 방법 같습니다.
@@ -127,16 +208,14 @@ https://gitee.com/songmy1093697597/bim3d-editor
 3js 에디터 입니다. 오픈소스로 개발하고있군요.
 https://gitee.com/Shiotsukikaedesari/vis-three
 
-조금 오래된 리포인데 예전에는 키 컨트롤을 어떻게 작업했는지 정도 참고하면 좋을거 같아요. prototype으로 짜여져있어요.
-https://gitee.com/insky2005/threejs.3droom데모 : 
-https://insky2005.gitee.io/threejs.3droom/html/index.html
+조금 오래된 리포인데 예전에는 키 컨트롤을 어떻게 작업했는지 정도 참고하면 좋을거 같아요. prototype으로 짜여져있어요. https://gitee.com/insky2005/threejs.3droom  
+데모 : https://insky2005.gitee.io/threejs.3droom/html/index.html
 
-> threejs 관련 퍼포먼스 최적화 팁 찾아보시면 도움이 되실듯합니다.
-https://discoverthreejs.com/tips-and-tricks/
+> threejs 관련 퍼포먼스 최적화 팁 찾아보시면 도움이 되실듯합니다.  
+https://discoverthreejs.com/tips-and-tricks/  
 https://docs.pmnd.rs/react-three-fiber/advanced/pitfalls#tips-and-tricks
 
-threejs 로 만드는 fluid를 Navier-Stokes 방정식으로 배우면서 만들 수 있습니다. glsl도 같이 배울 수 있어요.
-https://mofu-dev.com/en/blog/stable-fluids
+threejs 로 만드는 fluid를 Navier-Stokes 방정식으로 배우면서 만들 수 있습니다. glsl도 같이 배울 수 있어요. https://mofu-dev.com/en/blog/stable-fluids
 
 나비에-스토크스 방정식은 오일러 방정식 확장한 것이라고 합니다.N-S 방정식은 점성을 가진 유체의 운동을 기술하는 비선형 편미분방정식이다.날씨 모델, 해류, 관에서 유체흐름, 날개주변의 유체흐름 그리고 은하안에서 별들의 움직임을 설명하는데 쓰일 수 있으며 실제로 항공기나 자동차 설계, 혈관내의 혈류, 오염물질의 확산 등을 연구하는데 사용되고 있다.
 https://ko.wikipedia.org/wiki/%EB%82%98%EB%B9%84%EC%97%90-%EC%8A%A4%ED%86%A0%ED%81%AC%EC%8A%A4_%EB%B0%A9%EC%A0%95%EC%8B%9D
@@ -238,8 +317,8 @@ https://octopus.energy/not-a-page/
 CSS 트랜스폼 속성을 이제 따로 쓸 수 있어요!한줄로쓰나 따로쓰나 뭔차인가 싶겠지만, 이렇게 따로있는게 훨씬 더 자유롭게 떠오르는대로 코드 쓰기 편하달까요
 https://web.dev/css-individual-transform-properties
 
-RN 엑스포에서 r3f 적용한 라이브러리가 있어서 가져왔습니다.
-리포 : https://github.com/4TWIGGERS/react-native_3d_store
+RN 엑스포에서 r3f 적용한 라이브러리가 있어서 가져왔습니다.  
+리포 : https://github.com/4TWIGGERS/react-native_3d_store  
 데모 : https://user-images.githubusercontent.com/5978212/181212483-0054fcc3-9e5d-4a7a-8f48-458ea1922c8a.mp4
 
 r3f에서 셰이더를 작업해보아요
@@ -305,7 +384,7 @@ https://baosociety.com/
 
 video, canvas, translate3d(); 스크롤 시차 적용해서 2d와 3d를 적절히 잘 섞어준 사이트 입니다.근데 marquee 때문에 p tag 27개의 페인트가 계속 올라가고, width의 1px~2px이 계속 변하면서 램을 계속 먹고있어서;;이부분은 css 애니메이션으로 수정해주면 브라우저가 훨씬 덜힘들어할거 같습니다.
 
-HTML elements <marquee>
+`HTML elements <marquee>`  
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/marquee
 
 CSS in 2022 번역글이 있어서 가져왔습니다.
@@ -382,24 +461,19 @@ https://www.kdtype.com/https://github.com/steveruizok/kdtype
 npm : https://www.npmjs.com/package/eventemitter3  
 아티클 : https://velog.io/@ragnarok_code/EventEmitter%EB%9E%80
 
-몇달전에 폭죽 관련 JS라이브러리를 공유한적이 있었는데 react-confetti 리액트 전용 폭죽 라이브러리도 있군요.
-https://www.npmjs.com/package/react-confetti
+몇달전에 폭죽 관련 JS라이브러리를 공유한적이 있었는데 react-confetti 리액트 전용 폭죽 라이브러리도 있군요. https://www.npmjs.com/package/react-confetti
 
 r3f 에서 셰이더를 shadenfreude 로 작업하기도 하는군요. 셰이더 라이브러리 종종 보이는데, 저번에 물리엔진 여러개를 사용했을 때 서로 충돌이 안될것 같다는 의견들이 있었는데 셰이더는 서로 충돌되는지 궁금해지는군요.  
 데모 : https://codesandbox.io/s/ubzbxq  
 NPM : https://www.npmjs.com/package/shadenfreude
 
-파티클이라는 라이브러리 입니다.VanillaJS, Angularjs, Reactjs, Vuejs 등 사용하는 라이브러리&프레임워크 코드를 바로 볼 수 있습니다.
-https://particles.js.org/
+파티클이라는 라이브러리 입니다.VanillaJS, Angularjs, Reactjs, Vuejs 등 사용하는 라이브러리&프레임워크 코드를 바로 볼 수 있습니다. https://particles.js.org/
 
-preset에 보면 10가지 다양하게 있어서 랜딩에 가볍게 적용하시면 됩니다.
-https://particles.js.org/samples/presets/index.html
+preset에 보면 10가지 다양하게 있어서 랜딩에 가볍게 적용하시면 됩니다. https://particles.js.org/samples/presets/index.html
 
-요즘 360도 카메라로 찍은 영상을 메쉬화 시키는 NeRF를 관심있게 보고있습니다. 이미지 베이스 메쉬 최적화 아티클이 있어서 공유합니다.
-http://rgl.epfl.ch/publications/Vicini2022SDF
+요즘 360도 카메라로 찍은 영상을 메쉬화 시키는 NeRF를 관심있게 보고있습니다. 이미지 베이스 메쉬 최적화 아티클이 있어서 공유합니다. http://rgl.epfl.ch/publications/Vicini2022SDF
 
-일본에서 온천 사이트를 어떻게 만들었는지 살펴보아요. PC에서는 캐러셀하고 스크롤이벤트로 도배(?)가 되어있긴한데 모바일은 심플하군요.
-https://ru-ru-ru.com/
+일본에서 온천 사이트를 어떻게 만들었는지 살펴보아요. PC에서는 캐러셀하고 스크롤이벤트로 도배(?)가 되어있긴한데 모바일은 심플하군요. https://ru-ru-ru.com/
 
 > https://original.donga.com/2022/jameswebb/question?m=2  
 > https://github.com/nytimes/three-story-controls
@@ -411,29 +485,23 @@ CSS에서 mix-blend-mode로 사진에 이펙트 효과를 적용해보아요. mi
 아티클 : https://robbowen.digital/wrote-about/css-blend-mode-shaders/  
 MDN : https://developer.mozilla.org/ko/docs/Web/CSS/mix-blend-mode
 
-img 속성에서 aspect-ratio는 어떻게 적용하면 좋을지 읽어보아요.
-https://jakearchibald.com/2022/img-aspect-ratio/
+img 속성에서 aspect-ratio는 어떻게 적용하면 좋을지 읽어보아요. https://jakearchibald.com/2022/img-aspect-ratio/
 
-WebGL을 하려면 자바스크립트도 알고있어야하지만, 브라우저에 대해 잘 알고있어야하므로 웹 성능 관련 글도 읽어보시는게 좋습니다.Event loop, Main Thread(On/Off) 등 내용이 적혀있는 아티클 입니다.requestAnimationFrame을 줄여서 RAF 라고 부르는군요.
+WebGL을 하려면 자바스크립트도 알고 있어야 하지만, 브라우저에 대해 잘 알고 있어야 하므로 웹 성능 관련 글도 읽어보시는게 좋습니다.Event loop, Main Thread(On/Off) 등 내용이 적혀있는 아티클 입니다 requestAnimationFrame을 줄여서 RAF 라고 부르는군요.  
 https://medium.com/@matthew.costello/frontend-web-performance-the-essentials-1-cb6513e1c3a1
 
-브라우저에서 웹컴포넌트로 gltf3d 모델을 불러와서 바로 보거나 AR도 같이 볼 수 있는 라이브러리 입니다. 웹컴포넌트로 되어있어서 복잡하지 않고, 스크립트 모듈 불러와서 엘리먼트에 경로만 입력해주면되니까 간단하고 쉽게 사용 가능합니다.
-https://modelviewer.dev/
+브라우저에서 웹컴포넌트로 gltf3d 모델을 불러와서 바로 보거나 AR도 같이 볼 수 있는 라이브러리 입니다. 웹컴포넌트로 되어있어서 복잡하지 않고, 스크립트 모듈 불러와서 엘리먼트에 경로만 입력해주면되니까 간단하고 쉽게 사용 가능합니다. https://modelviewer.dev/
 
-CSS의 At-rules는 무엇이 있을까요.
-https://developer.mozilla.org/en-US/docs/Web/CSS/At-rule
+CSS의 At-rules는 무엇이 있을까요. https://developer.mozilla.org/en-US/docs/Web/CSS/At-rule
 
 자주 사용하는 at rules와 선택자가 간단히 정리되어있는 아티클 입니다.projectwallace.com/blog/css-complexity
-글쓴이는 올해 @layer가 추가되면서 다른 조건들과 같이 사용해야해서 복잡도만 증가되었다고 합니다.
-https://developer.mozilla.org/en-US/docs/Web/CSS/@layer
+글쓴이는 올해 @layer가 추가되면서 다른 조건들과 같이 사용해야해서 복잡도만 증가되었다고 합니다. https://developer.mozilla.org/en-US/docs/Web/CSS/@layer
 
 개인적인 생각으로는 글쓴이 의견에 동의하지만 반대로 생각하면CSS에 at-rules가 추가될수록 HTML DOM Node랑 CSS을 잘 섞어서(?) 렌더 트리를 쉽게 확장해나가는 구조로 만들 수 있지 않을까 생각합니다.
 
-웹개발 체크리스트 입니다.
-https://www.toptal.com/developers/webdevchecklist
+웹개발 체크리스트 입니다. https://www.toptal.com/developers/webdevchecklist
 
-프론트엔드 체크리스트랑 겹치는 부분이 있는거 같아요.
-https://frontendchecklist.io/
+프론트엔드 체크리스트랑 겹치는 부분이 있는거 같아요. https://frontendchecklist.io/
 
 > 디자인 시스템 체크리스트도 비슷한 맥락으로 볼 수 있겠네요.
 https://www.designsystemchecklist.com/
