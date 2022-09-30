@@ -14,7 +14,7 @@ HLSL GLSL MSL WGSL 셰이더 비교 글 입니다. wgsl이 WebGPU 전용 셰이�
 
 작년엔 넥스트 컨퍼런스 페이지 디자인 평범했던걸로 기억하는데 올해는 간단한 Webgl을 추가했군요. 큐브를 보석에 비추면 프리즘이 나옵니다. https://nextjs.org/conf
 
-앗? 네이버에서 3d모델 뷰어도 만들었었군요!https://github.com/naver/egjs-view3d
+앗? 네이버에서 3d모델 뷰어도 만들었었군요! https://github.com/naver/egjs-view3d
 
 gsap, 3js, webgi로 만든 예제 입니다. 이번에 스터디 시작하면 전 이거 만들어보려 합니다. 생각만해도 즐겁습니다 하핳   
 예제 : https://sudhir9297.github.io/jiotto_caspita_f1/  
@@ -23,7 +23,7 @@ gsap, 3js, webgi로 만든 예제 입니다. 이번에 스터디 시작하면 �
 유니티에서 작업하고 needle툴로 3js 익스포트할때 음악도 같이 내보냈다고 합니다. 툴 자체에 어디까지 옵션이 있는지 궁금해집니다. https://songs-of-cultures.glitch.me/  
 글리치에 예제 코드 보면 fastify로 셋팅되어있어요. needle은 gz으로 불러오나봅니다. https://glitch.com/edit/#!/songs-of-cultures
 
-본인 모습을 캐릭터로 만들고 작은 룸에서 스크롤 내리면 실험실로 캐릭터가 이동되는 모션 참고해봐도 좋을거 같습니다.https://david-hckh.com/
+본인 모습을 캐릭터로 만들고 작은 룸에서 스크롤 내리면 실험실로 캐릭터가 이동되는 모션 참고해봐도 좋을거 같습니다. https://david-hckh.com/
 
 오 아주대 교수님 3js 강의 올려주셨어요! 21년도 강의라서 비교적 최신이 되겠군요. 영어 강의가 어려운 분들에게 기초 이해하려면 이 영상 추천드려요! 다른 재생목록 보시면 예전에 공유한 WebGL1.0 기본 개념 이해하기에 좋은 영상도 있습니다.  https://youtube.com/playlist?list=PLKseYrrlvWNqo7IRWr1YzjeaL17GWKTrB
 교육 자료도 오픈해주셨습니다. htps://github.com/learn-cg/three.js.git
@@ -39,7 +39,7 @@ https://codesandbox.io/embed/github/hmans/space-scene-sandbox?codemirror=1
 
 r3f 편집기인 theatrejs 입니다. 이걸로 r3f 입문해봐도 좋을거 같아요. https://www.theatrejs.com/blog/theatre-05-is-out
 
-gatsby로 만든 퓨마 사이트 입니다.https://www.puma-campaigns.com/  
+gatsby로 만든 퓨마 사이트 입니다. https://www.puma-campaigns.com/  
 이미지 패럴렉스와 줌인은 gsap를 사용하였군요. 페이지가 로드되면서 전체 webp 이미지 데이터를 바로 받아오느라 데이터를 많이 먹는데, 비동기로 로딩중 화면을 로띠 애니메이션으로 타이포에 컬러가 칠해지는 애니메이션이 적용되어 있습니다.
 
 nuxt와 threejs, swiperjs 로 만든 사이트 입니다. https://wonderland.studio/  
@@ -53,7 +53,7 @@ neo.mjs 멀티스레드로 만드는 프론트엔드 프레임워크라고 합�
 여러 창에서 canvas 사용 시 js 인스턴스를 만들지 않아도 다른 창으로 이동할 수 있어서 성능과 확장성 작업시 빠르게 동작한다는 설명이 나와있습니다. https://itnext.io/the-secret-of-successfully-using-multi-window-webgl-canvas-5a2d05555ad1
 
 > 서윤님이 작업하신 예제 입니다.  
-별건아니고 연습문제인 무지개를 구현한것 공유드립니다. ㅎ..https://glslsandbox.com/e#91582.1
+별건아니고 연습문제인 무지개를 구현한것 공유드립니다. ㅎ.. https://glslsandbox.com/e#91582.1
 
 이미 공유된 자료일수도 있을 것 같긴 한데 glsl 공부하기 좋은 자료 추천합니다! https://thebookofshaders.com/
 
@@ -233,7 +233,7 @@ https://www.cathydolle.com/room
 리액트에서 drei로 목업에 이미지 텍스처 입히는 방법 간단해보입니다. 
 https://codesandbox.io/embed/text3d-alignment-forked-88mttv?file=/src/App.js&codemirror=1
 
-호오 decal이라는게 이런거군요 클릭하면 물감이 막 뿌려지네요
+> 호오 decal이라는게 이런거군요 클릭하면 물감이 막 뿌려지네요
 https://threejs.org/examples/#webgl_decals
 
 저 이거 보다가 갑자기 든 생각이 리액트, 바닐라, 뷰, 스벨트 threejs 예제 나눠져있는거 astro로 빌드하면 가능하지않을까? 라는 생각이 드는데... 실험해봐야겠습니다 후후후
