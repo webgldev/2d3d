@@ -16,7 +16,7 @@ HLSL GLSL MSL WGSL 셰이더 비교 글 입니다. wgsl이 WebGPU 전용 셰이�
 
 앗? 네이버에서 3d모델 뷰어도 만들었었군요! https://github.com/naver/egjs-view3d
 
-gsap, 3js, webgi로 만든 예제 입니다. 이번에 스터디 시작하면 전 이거 만들어보려 합니다. 생각만해도 즐겁습니다 하핳   
+gsap, webgi로 만든 예제 입니다. 이번에 스터디 시작하면 전 이거 만들어보려 합니다. 생각만해도 즐겁습니다 하핳   
 예제 : https://sudhir9297.github.io/jiotto_caspita_f1/  
 코드 : https://github.com/sudhir9297/jiotto_caspita_f1
 
