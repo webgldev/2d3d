@@ -13,11 +13,6 @@ export default function Home() {
     <>
       <Head>
         <title>Curated WebGL and CSS</title>
-        <meta name="description" content="curated list of webgl" />
-        <meta name="description" content="2d3d dev" />
-        <meta name="description" content="cureted webgl and css" />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="icon" href="/favicon.ico" />
       </Head>
       <Header />
       <main>
