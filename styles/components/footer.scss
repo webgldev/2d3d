@@ -1,0 +1,10 @@
+footer {
+  color: var(--color-3);
+  display: flex; gap: 24px; padding: 32px 0;
+}
+
+@include tablet-mobile {
+  footer {
+    font-size: var(--font-1);
+  }
+}

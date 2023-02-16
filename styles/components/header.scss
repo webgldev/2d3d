@@ -1,0 +1,19 @@
+header {
+  width: 100%; padding: 24px;
+  display: flex; justify-content: space-between; border-bottom: 1px solid #ddd;
+  ul {display: flex;
+    a {margin: 0 8px; padding: 8px 16px;}
+  }
+}
+
+@include tablet-mobile {
+  header {
+    padding: 8px;
+    font-size: var(--font-1);
+    ul {
+      a {
+        padding: 8px;
+      }
+    }
+  }
+}
