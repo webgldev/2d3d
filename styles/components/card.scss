@@ -1,0 +1,55 @@
+.card {
+  width: 660px; padding: 16px;
+  display: flex; gap: 24px;
+  border: 1px solid; border-radius: 8px;
+  box-shadow: 4px 4px 4px #eee;
+  .thumbnail {
+    figure {
+      position: relative;
+      figcaption {
+        font-size: var(--font-1); color: var(--color-5);
+        display: flex; align-items: center; justify-content: center;
+        img{
+          width: 16px; height: 16px;
+          position: absolute; right: 0; bottom: 0;
+        }
+      }
+    }
+  }
+  .des {
+    display: grid; justify-content: space-between; align-items: center;
+    gap: 8px;
+    .title {font-size: var(--font-5);}
+    .subtitle {font-size: var(--font-3); color: var(--color-5);}
+    div {
+      width: 100%;
+      display: flex; justify-content: space-between; align-items: center;
+      color: var(--color-5);
+      font-size: var(--font-2);
+    }
+  }
+}
+
+@include tablet-mobile {
+  .card {
+    width: inherit;
+    .thumbnail {
+      display: flex; align-items: center; justify-content: center;
+      figure {
+        img{width: 200px;}
+        position: relative;
+        display: grid; align-items: center; justify-content: center; gap: 4px;
+      }
+    }
+    .des {
+      div {
+        display: grid;
+        p {
+          &:nth-of-type(1) {order: 3; text-overflow: ellipsis; overflow:hidden; white-space:nowrap;}
+          &:nth-of-type(2), &:nth-of-type(3) {display: none;}
+        }
+      }
+    }
+  }
+}
+
