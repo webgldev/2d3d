@@ -6,9 +6,10 @@ import Header from '@/components/header'
 import Footer from '@/components/footer'
 import Card from '@/components/card'
 
+import { getAllPublished } from './api/notion';
 const inter = Inter({ subsets: ['latin'] })
 
-export default function Home() {
+export default function Home({posts, tag}: any) {
   return (
     <>
       <Head>
@@ -23,3 +24,12 @@ export default function Home() {
     </>
   )
 }
+export const getStaticProps = async () => {
+  const data = await getAllPublished();
+  return {
+    props: {
+      posts: data,
+    },
+    revalidate: 60
+  };
+};
