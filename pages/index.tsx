@@ -1,15 +1,17 @@
 import Head from 'next/head'
-import Image from 'next/image'
+import Link from 'next/link'
 import { Inter } from '@next/font/google'
 
 import Header from '@/components/header'
 import Footer from '@/components/footer'
-import Card from '@/components/card'
+import Section from '@/components/section'
 
 import { getAllPublished } from './api/notion';
 const inter = Inter({ subsets: ['latin'] })
 
 export default function Home({posts, tag}: any) {
+  // console.log(posts)
+  console.log(tag)
   return (
     <>
       <Head>
@@ -17,8 +19,24 @@ export default function Home({posts, tag}: any) {
       </Head>
       <Header />
       <main>
-        <p>Cureted webgl and css</p>
-        <Card />
+        <Section tag="all" posts={posts} limit={4}>
+          <Link href='/post/all' className='more'>
+            All Posts More
+            <img src="https://cdn-icons-png.flaticon.com/512/545/545682.png" alt="more button" />
+          </Link>
+          </Section>
+        <Section tag="webgl" posts={posts} limit={2}>
+          <Link href='/tags/webgl' className='more'>
+            Webgl More
+            <img src="https://cdn-icons-png.flaticon.com/512/545/545682.png" alt="more button" />
+          </Link>
+        </Section>
+        <Section tag="css" posts={posts} limit={2}>
+          <Link href='/tags/css' className='more'>
+            CSS More
+            <img src="https://cdn-icons-png.flaticon.com/512/545/545682.png" alt="more button" />
+          </Link>
+        </Section>
       </main>
       <Footer />
     </>
