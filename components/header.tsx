@@ -7,8 +7,9 @@ export default function Header() {
   const [isActive, setIsActive] = useState(false);
   const handleClick = (e:any) => {setIsActive(current => !current);};
   const menuData=[
-    {id: '1', ko: 'WebGL', path: '/webgl'},
-    {id: '2', ko: 'CSS',   path: '/css'},
+    {id: '1', ko: 'All', path: '/post/all'},
+    {id: '1', ko: 'WebGL', path: '/tags/webgl'},
+    {id: '2', ko: 'CSS',   path: '/tags/css'},
   ]
   return (
     <header>
