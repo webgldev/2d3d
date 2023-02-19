@@ -11,6 +11,12 @@ import ReactMarkdown from 'react-markdown';
 import { Prism as SyntaxHighlighter } from 'react-syntax-highlighter';
 import { vscDarkPlus } from 'react-syntax-highlighter/dist/cjs/styles/prism';
 
+/*
+TODO:
+  - [] clipboard copy url
+  - [] markdown style
+*/
+
 export default function Post({ markdown,  metadata }: { markdown: string, metadata: PageMetadata }, {posts, tag, limit=3}:any) {
   const router = useRouter()
 

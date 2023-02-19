@@ -1,4 +1,8 @@
 import { OgType } from '@/types/type'
+/*
+TODO:
+  - [] OG metaData
+*/
 
 const OG = ({ title, subtitle, tags, publicationDate }: OgType) => {
   const splitTags = tags.replaceAll(" ", "").split(",")

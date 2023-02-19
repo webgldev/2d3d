@@ -42,12 +42,16 @@
       }
     }
     .des {
+      .tag{
+        display: flex; flex-wrap: wrap;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        white-space: nowrap;
+      }
       div {
         display: grid;
-        p {
-          &:nth-of-type(1) {order: 3; text-overflow: ellipsis; overflow:hidden; white-space:nowrap;}
-          &:nth-of-type(2), &:nth-of-type(3) {display: none;}
-        }
+        &:nth-of-type(1){p{&:nth-of-type(2){display: none;}}}
+        p {text-overflow: ellipsis; overflow:hidden; white-space:nowrap;}
       }
     }
   }

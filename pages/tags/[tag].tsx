@@ -6,6 +6,16 @@ import Footer from '@/components/footer'
 import { PageMetadata } from '@/types/type';
 import { getAllPublished, getSingleBlogPostBySlug } from "../api/notion";
 
+/*
+TODO:
+  - [] card component
+        /pages/post/all.tsx,
+        /pages/tags/[tag].tsx,
+        /components/section.tsx
+  - [] click increase
+  - [] styles
+*/
+
 export default function Tag({posts, tag}: any) {
   console.log(posts)
   console.log(tag)
@@ -42,7 +52,7 @@ export default function Tag({posts, tag}: any) {
                     <p className='title'>Title : {post.title}</p>
                     <p>10</p>
                   </div>
-                  <p className='subtitle'>Description :{post.description}</p>
+                  <div><p className='subtitle'>Description :{post.description}</p></div>
                   <div>
                     <p>ArticleUrl : {post.articleUrl}</p>
                     <p>NotionURL : {post.notionUrl}</p>
@@ -50,7 +60,7 @@ export default function Tag({posts, tag}: any) {
                     <p>updated : {post.updatedDate}</p>
                   </div>
                 </Link>
-                <div>
+                <div className='tag'>
                   <p>Tag :</p>
                   {post.tags.map((tag: any)=> {
                     return (

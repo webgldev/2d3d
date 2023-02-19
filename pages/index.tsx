@@ -21,19 +21,19 @@ export default function Home({posts, tag}: any) {
       <main>
         <Section tag="all" posts={posts} limit={4}>
           <Link href='/post/all' className='more'>
-            All Posts More
+            All Posts
             <img src="https://cdn-icons-png.flaticon.com/512/545/545682.png" alt="more button" />
           </Link>
           </Section>
         <Section tag="webgl" posts={posts} limit={2}>
           <Link href='/tags/webgl' className='more'>
-            Webgl More
+            Webgl
             <img src="https://cdn-icons-png.flaticon.com/512/545/545682.png" alt="more button" />
           </Link>
         </Section>
         <Section tag="css" posts={posts} limit={2}>
           <Link href='/tags/css' className='more'>
-            CSS More
+            CSS
             <img src="https://cdn-icons-png.flaticon.com/512/545/545682.png" alt="more button" />
           </Link>
         </Section>

@@ -1,7 +1,15 @@
 import Link from "next/link";
 import { useEffect, useState } from "react";
 import { useQuery, useMutation, useQueryClient, QueryClient, QueryClientProvider } from '@tanstack/react-query'
-
+/*
+TODO:
+  - [] card component
+        /pages/post/all.tsx,
+        /pages/tags/[tag].tsx,
+        /components/section.tsx
+  - [] click increase
+  - [] styles
+*/
 export default function Section({posts, tag, limit=3, children}: any) {
   const [filteredPosts, setFilteredPosts] = useState([])
   useEffect(() => {
@@ -44,7 +52,7 @@ export default function Section({posts, tag, limit=3, children}: any) {
                   <p className='title'>Title : {post.title}</p>
                   <p>10</p>
                 </div>
-                <p className='subtitle'>Description :{post.description}</p>
+                <div><p className='subtitle'>Description :{post.description}</p></div>
                 <div>
                   <p>ArticleUrl : {post.articleUrl}</p>
                   <p>NotionURL : {post.notionUrl}</p>
@@ -52,7 +60,7 @@ export default function Section({posts, tag, limit=3, children}: any) {
                   <p>updated : {post.updatedDate}</p>
                 </div>
               </Link>
-              <div>
+              <div className='tag'>
                 <p>Tag :</p>
                 {post.tags.map((tag:any)=> {
                   return (

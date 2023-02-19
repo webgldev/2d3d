@@ -1,7 +1,10 @@
 import Link from "next/link";
 import { useRouter } from "next/router";
 import { useState } from "react";
-
+/*
+TODO:
+  - [] router path color
+*/
 export default function Header() {
   const router = useRouter();
   const [isActive, setIsActive] = useState(false);
@@ -13,7 +16,7 @@ export default function Header() {
   ]
   return (
     <header>
-      <Link href='/'>Cureted webgl and css</Link>
+      <Link href='/'>공사중 입니다</Link>
       <nav>
         <ul>
           {menuData.map((menu)=>{
