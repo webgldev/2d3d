@@ -1,0 +1,16 @@
+main {
+  display: grid; gap: 40px; margin-top: 40px;
+  article {
+    display: grid; gap: 24px;
+    .more {
+      display: flex; align-items: center; justify-content: center; gap: 8px;
+      img {width: 16px; height: 16px;}
+    }
+    &:nth-of-type(1) {
+      border-bottom: 1px solid #ddd; padding-bottom: 60px;
+    }
+    .article-title {
+      font-size: var(--font-6); padding-bottom: 16px; font-weight: bold; color: var(--color-5);
+    }
+  }
+}

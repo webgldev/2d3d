@@ -33,3 +33,9 @@ $tablet-mobile: 768px;
     @content;
   }
 }
+
+#__next {
+  main {
+    padding: 0 16px;
+  }
+}

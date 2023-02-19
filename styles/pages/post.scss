@@ -1,0 +1,28 @@
+.post {
+  width: 960px;
+  article {
+    button {
+      display: flex; align-items: center; align-items: center; gap: 8px; text-align: left;
+      img {width: 16px; height: 16px;}
+    }
+    section {
+      background: #eee;
+      padding: 40px; border-radius: 8px;
+      .post-title {
+        display: grid; gap: 16px;
+        h1 {font-size: var(--font-8);}
+      }
+      .copy {
+        .tag {color: var(--color-5);}
+        display: flex; justify-content: space-between; align-items: center; gap: 24px;
+        img {width: 16px; height: 16px;}
+      }
+    }
+  }
+}
+
+@include tablet-mobile {
+  .post {
+    width: inherit;
+  }
+}
