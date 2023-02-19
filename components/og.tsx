@@ -1,11 +1,6 @@
-interface Props {
-  title: string
-  subtitle: string
-  tags: string
-  publicationDate: string
-}
+import { OgType } from '@/types/type'
 
-const OG = ({ title, subtitle, tags, publicationDate }: Props) => {
+const OG = ({ title, subtitle, tags, publicationDate }: OgType) => {
   const splitTags = tags.replaceAll(" ", "").split(",")
 
   return (

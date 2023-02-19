@@ -1,6 +1,6 @@
 import { ImageResponse } from '@vercel/og';
 import { NextRequest } from "next/server";
-import OG from "../../components/og";
+import OG from "@/components/og";
 
 export const config = {runtime: 'edge',};
 const font = fetch(new URL("../../public/assets/JetBrainsMono-Bold.ttf", import.meta.url)).then(
